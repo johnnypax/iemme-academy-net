@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\bin\Debug\net8.0\Lez01_03_variabili.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\bin\Debug\net8.0\Lez01_03_variabili.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\bin\Debug\net8.0\Lez01_03_variabili.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\bin\Debug\net8.0\Lez01_03_variabili.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\bin\Debug\net8.0\Lez01_03_variabili.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\refint\Lez01_03_variabili.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\Lez01_03_variabili.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_03_variabili\Lez01_03_variabili\obj\Debug\net8.0\ref\Lez01_03_variabili.dll

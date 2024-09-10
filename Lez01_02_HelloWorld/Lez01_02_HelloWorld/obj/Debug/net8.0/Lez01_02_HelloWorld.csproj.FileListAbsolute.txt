@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\bin\Debug\net8.0\Lez01_02_HelloWorld.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\bin\Debug\net8.0\Lez01_02_HelloWorld.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\bin\Debug\net8.0\Lez01_02_HelloWorld.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\bin\Debug\net8.0\Lez01_02_HelloWorld.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\bin\Debug\net8.0\Lez01_02_HelloWorld.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\refint\Lez01_02_HelloWorld.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\Lez01_02_HelloWorld.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_02_HelloWorld\Lez01_02_HelloWorld\obj\Debug\net8.0\ref\Lez01_02_HelloWorld.dll
