@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\bin\Debug\net8.0\Lez01_08_ControlliComplessi.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\bin\Debug\net8.0\Lez01_08_ControlliComplessi.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\bin\Debug\net8.0\Lez01_08_ControlliComplessi.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\bin\Debug\net8.0\Lez01_08_ControlliComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\bin\Debug\net8.0\Lez01_08_ControlliComplessi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\refint\Lez01_08_ControlliComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\Lez01_08_ControlliComplessi.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_08_ControlliComplessi\Lez01_08_ControlliComplessi\obj\Debug\net8.0\ref\Lez01_08_ControlliComplessi.dll

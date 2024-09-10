@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lez01_05_Stringhe/1.0.0": {
+        "runtime": {
+          "Lez01_05_Stringhe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez01_05_Stringhe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

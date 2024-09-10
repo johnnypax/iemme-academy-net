@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\bin\Debug\net8.0\Lez01_05_Stringhe.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\bin\Debug\net8.0\Lez01_05_Stringhe.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\bin\Debug\net8.0\Lez01_05_Stringhe.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\bin\Debug\net8.0\Lez01_05_Stringhe.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\bin\Debug\net8.0\Lez01_05_Stringhe.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\refint\Lez01_05_Stringhe.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\Lez01_05_Stringhe.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_05_Stringhe\Lez01_05_Stringhe\obj\Debug\net8.0\ref\Lez01_05_Stringhe.dll

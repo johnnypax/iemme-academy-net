@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\bin\Debug\net8.0\Lez01_07_InputUtente.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\bin\Debug\net8.0\Lez01_07_InputUtente.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\bin\Debug\net8.0\Lez01_07_InputUtente.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\bin\Debug\net8.0\Lez01_07_InputUtente.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\bin\Debug\net8.0\Lez01_07_InputUtente.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\refint\Lez01_07_InputUtente.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\Lez01_07_InputUtente.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez01_07_InputUtente\Lez01_07_InputUtente\obj\Debug\net8.0\ref\Lez01_07_InputUtente.dll
