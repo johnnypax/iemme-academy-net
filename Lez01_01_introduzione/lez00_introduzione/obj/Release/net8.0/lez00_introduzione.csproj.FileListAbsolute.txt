@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\bin\Release\net8.0\lez00_introduzione.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\bin\Release\net8.0\lez00_introduzione.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\bin\Release\net8.0\lez00_introduzione.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\bin\Release\net8.0\lez00_introduzione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\bin\Release\net8.0\lez00_introduzione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\refint\lez00_introduzione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\lez00_introduzione.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\lez00_introduzione\lez00_introduzione\obj\Release\net8.0\ref\lez00_introduzione.dll
