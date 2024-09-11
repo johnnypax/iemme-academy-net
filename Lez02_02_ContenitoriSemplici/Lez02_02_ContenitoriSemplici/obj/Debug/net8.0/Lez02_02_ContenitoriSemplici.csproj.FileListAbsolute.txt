@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\bin\Debug\net8.0\Lez02_02_ContenitoriSemplici.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\bin\Debug\net8.0\Lez02_02_ContenitoriSemplici.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\bin\Debug\net8.0\Lez02_02_ContenitoriSemplici.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\bin\Debug\net8.0\Lez02_02_ContenitoriSemplici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\bin\Debug\net8.0\Lez02_02_ContenitoriSemplici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\refint\Lez02_02_ContenitoriSemplici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\Lez02_02_ContenitoriSemplici.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_02_ContenitoriSemplici\Lez02_02_ContenitoriSemplici\obj\Debug\net8.0\ref\Lez02_02_ContenitoriSemplici.dll

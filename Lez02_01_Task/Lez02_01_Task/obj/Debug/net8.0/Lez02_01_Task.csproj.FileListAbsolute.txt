@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\bin\Debug\net8.0\Lez02_01_Task.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\bin\Debug\net8.0\Lez02_01_Task.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\bin\Debug\net8.0\Lez02_01_Task.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\bin\Debug\net8.0\Lez02_01_Task.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\bin\Debug\net8.0\Lez02_01_Task.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\refint\Lez02_01_Task.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\Lez02_01_Task.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_Task\Lez02_01_Task\obj\Debug\net8.0\ref\Lez02_01_Task.dll

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\bin\Debug\net8.0\Lez02_01_TaskInvitati.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\bin\Debug\net8.0\Lez02_01_TaskInvitati.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\bin\Debug\net8.0\Lez02_01_TaskInvitati.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\bin\Debug\net8.0\Lez02_01_TaskInvitati.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\bin\Debug\net8.0\Lez02_01_TaskInvitati.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\refint\Lez02_01_TaskInvitati.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\Lez02_01_TaskInvitati.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_01_TaskInvitati\Lez02_01_TaskInvitati\obj\Debug\net8.0\ref\Lez02_01_TaskInvitati.dll

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\bin\Debug\net8.0\Lez02_03_ContenitoriDinamici.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\bin\Debug\net8.0\Lez02_03_ContenitoriDinamici.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\bin\Debug\net8.0\Lez02_03_ContenitoriDinamici.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\bin\Debug\net8.0\Lez02_03_ContenitoriDinamici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\bin\Debug\net8.0\Lez02_03_ContenitoriDinamici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\refint\Lez02_03_ContenitoriDinamici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\Lez02_03_ContenitoriDinamici.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_ContenitoriDinamici\Lez02_03_ContenitoriDinamici\obj\Debug\net8.0\ref\Lez02_03_ContenitoriDinamici.dll
