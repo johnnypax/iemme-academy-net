@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\bin\Debug\net8.0\Lez02_06_Metodi.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\bin\Debug\net8.0\Lez02_06_Metodi.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\bin\Debug\net8.0\Lez02_06_Metodi.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\bin\Debug\net8.0\Lez02_06_Metodi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\bin\Debug\net8.0\Lez02_06_Metodi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\refint\Lez02_06_Metodi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\Lez02_06_Metodi.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_06_Metodi\Lez02_06_Metodi\obj\Debug\net8.0\ref\Lez02_06_Metodi.dll

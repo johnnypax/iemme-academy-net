@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\bin\Debug\net8.0\Lez02_04_ContenitoriComplessi.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\bin\Debug\net8.0\Lez02_04_ContenitoriComplessi.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\bin\Debug\net8.0\Lez02_04_ContenitoriComplessi.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\bin\Debug\net8.0\Lez02_04_ContenitoriComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\bin\Debug\net8.0\Lez02_04_ContenitoriComplessi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\refint\Lez02_04_ContenitoriComplessi.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\Lez02_04_ContenitoriComplessi.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_04_ContenitoriComplessi\Lez02_04_ContenitoriComplessi\obj\Debug\net8.0\ref\Lez02_04_ContenitoriComplessi.dll

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\bin\Debug\net8.0\Lez02_05_ClassiEdOggetti.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\bin\Debug\net8.0\Lez02_05_ClassiEdOggetti.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\bin\Debug\net8.0\Lez02_05_ClassiEdOggetti.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\bin\Debug\net8.0\Lez02_05_ClassiEdOggetti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\bin\Debug\net8.0\Lez02_05_ClassiEdOggetti.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\refint\Lez02_05_ClassiEdOggetti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\Lez02_05_ClassiEdOggetti.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_05_ClassiEdOggetti\Lez02_05_ClassiEdOggetti\obj\Debug\net8.0\ref\Lez02_05_ClassiEdOggetti.dll
