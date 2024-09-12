@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lez03_08_Task/1.0.0": {
+        "runtime": {
+          "Lez03_08_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez03_08_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
