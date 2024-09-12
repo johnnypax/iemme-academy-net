@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\bin\Debug\net8.0\Lez03_09_Poly.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\bin\Debug\net8.0\Lez03_09_Poly.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\bin\Debug\net8.0\Lez03_09_Poly.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\bin\Debug\net8.0\Lez03_09_Poly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\bin\Debug\net8.0\Lez03_09_Poly.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\refint\Lez03_09_Poly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\Lez03_09_Poly.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_09_Poly\Lez03_09_Poly\obj\Debug\net8.0\ref\Lez03_09_Poly.dll
