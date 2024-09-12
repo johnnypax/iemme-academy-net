@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\bin\Debug\net8.0\Lez02_03_Costruttori.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\bin\Debug\net8.0\Lez02_03_Costruttori.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\bin\Debug\net8.0\Lez02_03_Costruttori.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\bin\Debug\net8.0\Lez02_03_Costruttori.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\bin\Debug\net8.0\Lez02_03_Costruttori.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\refint\Lez02_03_Costruttori.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\Lez02_03_Costruttori.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez02_03_Costruttori\Lez02_03_Costruttori\obj\Debug\net8.0\ref\Lez02_03_Costruttori.dll

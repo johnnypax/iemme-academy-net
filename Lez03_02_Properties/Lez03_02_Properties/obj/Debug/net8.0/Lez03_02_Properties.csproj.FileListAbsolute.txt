@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\bin\Debug\net8.0\Lez03_02_Properties.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\bin\Debug\net8.0\Lez03_02_Properties.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\bin\Debug\net8.0\Lez03_02_Properties.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\bin\Debug\net8.0\Lez03_02_Properties.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\bin\Debug\net8.0\Lez03_02_Properties.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\refint\Lez03_02_Properties.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\Lez03_02_Properties.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_02_Properties\Lez03_02_Properties\obj\Debug\net8.0\ref\Lez03_02_Properties.dll

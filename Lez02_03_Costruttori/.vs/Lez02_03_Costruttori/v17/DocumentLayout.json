@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez02_03_Costruttori\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC62EFC-EF5A-4B28-9A8F-932B9F0498D5}|Lez02_03_Costruttori\\Lez02_03_Costruttori.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez02_03_costruttori\\lez02_03_costruttori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC62EFC-EF5A-4B28-9A8F-932B9F0498D5}|Lez02_03_Costruttori\\Lez02_03_Costruttori.csproj|solutionrelative:lez02_03_costruttori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC62EFC-EF5A-4B28-9A8F-932B9F0498D5}|Lez02_03_Costruttori\\Lez02_03_Costruttori.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez02_03_costruttori\\lez02_03_costruttori\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC62EFC-EF5A-4B28-9A8F-932B9F0498D5}|Lez02_03_Costruttori\\Lez02_03_Costruttori.csproj|solutionrelative:lez02_03_costruttori\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez02_03_Costruttori\\Lez02_03_Costruttori\\Program.cs",
+              "RelativeDocumentMoniker": "Lez02_03_Costruttori\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez02_03_Costruttori\\Lez02_03_Costruttori\\Program.cs",
+              "RelativeToolTip": "Lez02_03_Costruttori\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:12:16.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez02_03_Costruttori\\Lez02_03_Costruttori\\classes\\Automobile.cs",
+              "RelativeDocumentMoniker": "Lez02_03_Costruttori\\classes\\Automobile.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez02_03_Costruttori\\Lez02_03_Costruttori\\classes\\Automobile.cs",
+              "RelativeToolTip": "Lez02_03_Costruttori\\classes\\Automobile.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwDgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:12:59.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
