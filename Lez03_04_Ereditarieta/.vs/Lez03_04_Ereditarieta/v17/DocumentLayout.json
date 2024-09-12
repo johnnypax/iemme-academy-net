@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|solutionrelative:lez03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|solutionrelative:lez03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5085CC0A-7CB0-4D62-8C59-9BCD9FCD1B99}|Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta.csproj|solutionrelative:lez03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\Program.cs",
+              "RelativeDocumentMoniker": "Lez03_04_Ereditarieta\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\Program.cs",
+              "RelativeToolTip": "Lez03_04_Ereditarieta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:11.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez03_04_Ereditarieta\\classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\classes\\Persona.cs",
+              "RelativeToolTip": "Lez03_04_Ereditarieta\\classes\\Persona.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\classes\\Docente.cs",
+              "RelativeDocumentMoniker": "Lez03_04_Ereditarieta\\classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_04_Ereditarieta\\Lez03_04_Ereditarieta\\classes\\Docente.cs",
+              "RelativeToolTip": "Lez03_04_Ereditarieta\\classes\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:03:09.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

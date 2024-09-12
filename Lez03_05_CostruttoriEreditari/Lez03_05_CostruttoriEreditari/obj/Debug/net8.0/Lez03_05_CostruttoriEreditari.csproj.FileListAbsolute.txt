@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\bin\Debug\net8.0\Lez03_05_CostruttoriEreditari.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\bin\Debug\net8.0\Lez03_05_CostruttoriEreditari.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\bin\Debug\net8.0\Lez03_05_CostruttoriEreditari.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\bin\Debug\net8.0\Lez03_05_CostruttoriEreditari.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\bin\Debug\net8.0\Lez03_05_CostruttoriEreditari.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\refint\Lez03_05_CostruttoriEreditari.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\Lez03_05_CostruttoriEreditari.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_05_CostruttoriEreditari\Lez03_05_CostruttoriEreditari\obj\Debug\net8.0\ref\Lez03_05_CostruttoriEreditari.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\classes\\pesce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\classes\\pesce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\classes\\coccodrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\classes\\coccodrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez03_06\\lez03_06\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7A6265-6AF7-4017-A70A-FCB27F6715D9}|Lez03_06\\Lez03_06.csproj|solutionrelative:lez03_06\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pesce.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Pesce.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\classes\\Pesce.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Pesce.cs",
+              "RelativeToolTip": "Lez03_06\\classes\\Pesce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:02:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coccodrillo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Coccodrillo.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\classes\\Coccodrillo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Coccodrillo.cs",
+              "RelativeToolTip": "Lez03_06\\classes\\Coccodrillo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:45:33.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cane.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Cane.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\classes\\Cane.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Cane.cs",
+              "RelativeToolTip": "Lez03_06\\classes\\Cane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:45:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Gatto.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\classes\\Gatto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Gatto.cs",
+              "RelativeToolTip": "Lez03_06\\classes\\Gatto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:44:28.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\Program.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\Program.cs",
+              "RelativeToolTip": "Lez03_06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:42:43.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Animale.cs",
+              "RelativeDocumentMoniker": "Lez03_06\\classes\\Animale.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez03_06\\Lez03_06\\classes\\Animale.cs",
+              "RelativeToolTip": "Lez03_06\\classes\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:43:15.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

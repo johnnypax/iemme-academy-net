@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\bin\Debug\net8.0\Lez03_04_Ereditarieta.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\bin\Debug\net8.0\Lez03_04_Ereditarieta.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\bin\Debug\net8.0\Lez03_04_Ereditarieta.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\bin\Debug\net8.0\Lez03_04_Ereditarieta.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\bin\Debug\net8.0\Lez03_04_Ereditarieta.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\refint\Lez03_04_Ereditarieta.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\Lez03_04_Ereditarieta.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez03_04_Ereditarieta\Lez03_04_Ereditarieta\obj\Debug\net8.0\ref\Lez03_04_Ereditarieta.dll
