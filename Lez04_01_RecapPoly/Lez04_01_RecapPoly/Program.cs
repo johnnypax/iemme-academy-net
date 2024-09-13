@@ -50,7 +50,7 @@ namespace Lez04_01_RecapPoly
             iemacademy.AggiungiStudente(val);
             iemacademy.AggiungiDocente(doc);
 
-            iemacademy.StampaTutti();
+            iemacademy.StampaCertificatiStudentiElenco();
         }
     }
 }

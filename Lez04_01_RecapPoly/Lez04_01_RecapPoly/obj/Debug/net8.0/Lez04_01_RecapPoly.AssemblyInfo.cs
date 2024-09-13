@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez04_01_RecapPoly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4fefa979fca595c138a919d6cd54910e7c0de5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95334fbd6d8d3ae5ac9a4193d5c201572c24160b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez04_01_RecapPoly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez04_01_RecapPoly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

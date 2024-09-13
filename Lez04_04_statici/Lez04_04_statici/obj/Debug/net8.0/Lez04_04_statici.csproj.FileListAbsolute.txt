@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\bin\Debug\net8.0\Lez04_04_statici.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\bin\Debug\net8.0\Lez04_04_statici.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\bin\Debug\net8.0\Lez04_04_statici.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\bin\Debug\net8.0\Lez04_04_statici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\bin\Debug\net8.0\Lez04_04_statici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\refint\Lez04_04_statici.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\Lez04_04_statici.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_04_statici\Lez04_04_statici\obj\Debug\net8.0\ref\Lez04_04_statici.dll

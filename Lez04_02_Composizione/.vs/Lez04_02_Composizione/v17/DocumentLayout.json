@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_02_composizione\\lez04_02_composizione\\classes\\mazzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|solutionrelative:lez04_02_composizione\\classes\\mazzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_02_composizione\\lez04_02_composizione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|solutionrelative:lez04_02_composizione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_02_composizione\\lez04_02_composizione\\classes\\fiore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8842083-258D-4EBB-8B3B-D37D5723C2E8}|Lez04_02_Composizione\\Lez04_02_Composizione.csproj|solutionrelative:lez04_02_composizione\\classes\\fiore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fiore.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\classes\\Fiore.cs",
+              "RelativeDocumentMoniker": "Lez04_02_Composizione\\classes\\Fiore.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\classes\\Fiore.cs",
+              "RelativeToolTip": "Lez04_02_Composizione\\classes\\Fiore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:56:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_02_Composizione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\Program.cs",
+              "RelativeToolTip": "Lez04_02_Composizione\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:52:27.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 427,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mazzo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\classes\\Mazzo.cs",
+              "RelativeDocumentMoniker": "Lez04_02_Composizione\\classes\\Mazzo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_02_Composizione\\Lez04_02_Composizione\\classes\\Mazzo.cs",
+              "RelativeToolTip": "Lez04_02_Composizione\\classes\\Mazzo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:56:37.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

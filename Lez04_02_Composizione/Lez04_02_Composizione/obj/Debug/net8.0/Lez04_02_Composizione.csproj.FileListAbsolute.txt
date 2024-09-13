@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\bin\Debug\net8.0\Lez04_02_Composizione.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\bin\Debug\net8.0\Lez04_02_Composizione.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\bin\Debug\net8.0\Lez04_02_Composizione.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\bin\Debug\net8.0\Lez04_02_Composizione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\bin\Debug\net8.0\Lez04_02_Composizione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\refint\Lez04_02_Composizione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\Lez04_02_Composizione.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_02_Composizione\Lez04_02_Composizione\obj\Debug\net8.0\ref\Lez04_02_Composizione.dll
