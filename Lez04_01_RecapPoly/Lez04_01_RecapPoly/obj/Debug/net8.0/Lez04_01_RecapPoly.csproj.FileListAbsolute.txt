@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\bin\Debug\net8.0\Lez04_01_RecapPoly.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\bin\Debug\net8.0\Lez04_01_RecapPoly.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\bin\Debug\net8.0\Lez04_01_RecapPoly.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\bin\Debug\net8.0\Lez04_01_RecapPoly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\bin\Debug\net8.0\Lez04_01_RecapPoly.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\refint\Lez04_01_RecapPoly.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\Lez04_01_RecapPoly.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez04_01_RecapPoly\Lez04_01_RecapPoly\obj\Debug\net8.0\ref\Lez04_01_RecapPoly.dll

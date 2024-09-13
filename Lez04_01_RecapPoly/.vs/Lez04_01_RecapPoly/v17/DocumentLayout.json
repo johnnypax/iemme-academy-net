@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_01_recappoly\\lez04_01_recappoly\\classes\\universita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|solutionrelative:lez04_01_recappoly\\classes\\universita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_01_recappoly\\lez04_01_recappoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|solutionrelative:lez04_01_recappoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_01_recappoly\\lez04_01_recappoly\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|solutionrelative:lez04_01_recappoly\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_01_recappoly\\lez04_01_recappoly\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|solutionrelative:lez04_01_recappoly\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez04_01_recappoly\\lez04_01_recappoly\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658040B-2A77-4F63-85AC-710BE87F0FB2}|Lez04_01_RecapPoly\\Lez04_01_RecapPoly.csproj|solutionrelative:lez04_01_recappoly\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Universita.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Universita.cs",
+              "RelativeDocumentMoniker": "Lez04_01_RecapPoly\\classes\\Universita.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Universita.cs",
+              "RelativeToolTip": "Lez04_01_RecapPoly\\classes\\Universita.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:40:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Docente.cs",
+              "RelativeDocumentMoniker": "Lez04_01_RecapPoly\\classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Docente.cs",
+              "RelativeToolTip": "Lez04_01_RecapPoly\\classes\\Docente.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:42:02.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Lez04_01_RecapPoly\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Studente.cs",
+              "RelativeToolTip": "Lez04_01_RecapPoly\\classes\\Studente.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:36:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez04_01_RecapPoly\\classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\classes\\Persona.cs",
+              "RelativeToolTip": "Lez04_01_RecapPoly\\classes\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:32:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_01_RecapPoly\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez04_01_RecapPoly\\Lez04_01_RecapPoly\\Program.cs",
+              "RelativeToolTip": "Lez04_01_RecapPoly\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:22:59.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

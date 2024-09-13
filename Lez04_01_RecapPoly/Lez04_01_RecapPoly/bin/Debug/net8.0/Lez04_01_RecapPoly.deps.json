@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lez04_01_RecapPoly/1.0.0": {
+        "runtime": {
+          "Lez04_01_RecapPoly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez04_01_RecapPoly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
