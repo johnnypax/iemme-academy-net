@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\bin\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\bin\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\bin\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\bin\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\bin\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\refint\Lez05_01_CorrezioneEsercizioUno.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\Lez05_01_CorrezioneEsercizioUno.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_01_CorrezioneEsercizioUno\Lez05_01_CorrezioneEsercizioUno\obj\Debug\net8.0\ref\Lez05_01_CorrezioneEsercizioUno.dll

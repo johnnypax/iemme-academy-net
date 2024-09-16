@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\bin\Debug\net8.0\Lez05_03_Utilizzo.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\bin\Debug\net8.0\Lez05_03_Utilizzo.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\bin\Debug\net8.0\Lez05_03_Utilizzo.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\bin\Debug\net8.0\Lez05_03_Utilizzo.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\bin\Debug\net8.0\Lez05_03_Utilizzo.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\refint\Lez05_03_Utilizzo.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\Lez05_03_Utilizzo.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez05_03_Utilizzo\Lez05_03_Utilizzo\obj\Debug\net8.0\ref\Lez05_03_Utilizzo.dll

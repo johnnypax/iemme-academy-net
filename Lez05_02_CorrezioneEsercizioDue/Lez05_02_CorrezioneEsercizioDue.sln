@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez05_02_CorrezioneEsercizioDue", "Lez05_02_CorrezioneEsercizioDue\Lez05_02_CorrezioneEsercizioDue.csproj", "{A9F32A71-91B4-4488-B4BD-D6038DDF3AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F32A71-91B4-4488-B4BD-D6038DDF3AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F32A71-91B4-4488-B4BD-D6038DDF3AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F32A71-91B4-4488-B4BD-D6038DDF3AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F32A71-91B4-4488-B4BD-D6038DDF3AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B134CED-B6A3-46FE-B9E9-CA9D82B6B524}
+	EndGlobalSection
+EndGlobal
