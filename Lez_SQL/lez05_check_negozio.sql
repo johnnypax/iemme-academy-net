@@ -19,7 +19,7 @@ CREATE TABLE Prodotto(
 );
 
 -- Rimozione ed inserimento Constraint
-
+/*
 ALTER TABLE Prodotto DROP CONSTRAINT CHK_Prezzo;
 
 ALTER TABLE Prodotto 
@@ -27,4 +27,17 @@ ALTER TABLE Prodotto
 	CHECK(categoria IN ('Illuminazione', 'Alimento', 'Bricolage', 'Non definito'));
 
 ALTER TABLE Prodotto ADD CONSTRAINT CHK_Prezzo CHECK(prezzo >= 0);
+*/
 
+-- ---------------------------------------------------------------------
+
+CREATE TABLE Prodotto(
+	prodottoID INT IDENTITY(1,1) PRIMARY KEY,
+	nome VARCHAR(250) NOT NULL,
+	descrizione TEXT,
+	prezzo DECIMAL(5,2) CHECK(prezzo >= 0),
+	categoria VARCHAR(50) CHECK(categoria IN ('Illuminazione', 'Alimento', 'Bricolage', 'Non definito')),
+	data_scadenza DATE CHECK(data_scadenza BETWEEN '1900-01-01' AND '2100-01-01')
+);
+
+SELECT * FROM Prodotto;
