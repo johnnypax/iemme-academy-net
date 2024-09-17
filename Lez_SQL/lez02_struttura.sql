@@ -1,6 +1,6 @@
 -- DROP DATABASE a_lez02_struttura;
 -- CREATE DATABASE a_lez02_struttura;
--- USE a_lez02_struttura;
+USE a_lez02_struttura;
 
 DROP TABLE IF EXISTS Persona;
 CREATE TABLE Persona(
@@ -54,3 +54,6 @@ SELECT * FROM Persona WHERE cognome = 'Pace';
 SELECT * FROM Persona;
 SELECT nome, cod_fis FROM Persona;
 SELECT nome, cod_fis FROM Persona WHERE email = 'gio@pace.com';
+
+
+SELECT * FROM Persona WHERE cod_fis = 'MRRRSS';

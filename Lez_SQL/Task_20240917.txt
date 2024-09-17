@@ -1,0 +1,15 @@
+Creare un sistema di gestione piatti di un ristorante.
+Ogni piatto è caratterizzato da:
+- Nome
+- Descrizione
+- Prezzo
+- Se è vegan o no
+- Se contiene glutine
+- Categoria ("Primo", "Secondo", "Contorno)
+
+Inserisci almeno 6 piatti e scrivere una query che:
+- Restituisce tutti i piatti vegani
+- Restituisce sia i piatti vegani che quelli senza glutine
+- Restituisce i piatti vegani che costano meno di 20 euro
+- Restituisce tutti i piatti vegani o senza glutine che costano meno di 15 Euro
+- Restituisce tutti i piatti della categoria "Primi"
