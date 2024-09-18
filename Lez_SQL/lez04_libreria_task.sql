@@ -43,3 +43,5 @@ SELECT * FROM Libro WHERE autore = 'JRRT';
 SELECT * FROM Libro WHERE isbn = 'ab1234';
 
 SELECT * FROM Libro WHERE titolo LIKE '%an%' AND autore LIKE '%an%';
+
+select * from Libro;
