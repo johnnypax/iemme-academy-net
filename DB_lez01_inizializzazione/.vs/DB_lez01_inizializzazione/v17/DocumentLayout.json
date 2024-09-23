@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez01_inizializzazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76EC3F7-27B7-4B15-B70A-F08D1228E22D}|DB_lez01_inizializzazione\\DB_lez01_inizializzazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez01_inizializzazione\\db_lez01_inizializzazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76EC3F7-27B7-4B15-B70A-F08D1228E22D}|DB_lez01_inizializzazione\\DB_lez01_inizializzazione.csproj|solutionrelative:db_lez01_inizializzazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez01_inizializzazione\\DB_lez01_inizializzazione\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez01_inizializzazione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez01_inizializzazione\\DB_lez01_inizializzazione\\Program.cs",
+              "RelativeToolTip": "DB_lez01_inizializzazione\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:41:32.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
