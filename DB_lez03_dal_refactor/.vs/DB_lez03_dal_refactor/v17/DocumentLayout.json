@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\assetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\assetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\autodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\dipendentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\dipendentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\assetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\assetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\autodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|solutionrelative:db_lez03_dal_refactor\\classes\\autodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{082FE323-EEF9-4071-AAE8-900E42470AA7}|DB_lez03_dal_refactor\\DB_lez03_dal_refactor.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez03_dal_refactor\\db_lez03_dal_refactor\\classes\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,12 +45,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 159,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 187,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DipendenteDAO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\DipendenteDAO.cs",
               "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\classes\\DipendenteDAO.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\Config.cs",
               "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\classes\\Config.cs",
@@ -71,18 +71,17 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\Config.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAADVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:13:19.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T13:13:19.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\AutoDAL.cs",
-              "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\classes\\AutoDAL.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\AutoDAL.cs",
-              "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\AutoDAL.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAoAAAAOAAAA",
+              "DocumentIndex": 1,
+              "Title": "AutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\AutoDAO.cs",
+              "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\classes\\AutoDAO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\AutoDAO.cs",
+              "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\AutoDAO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T13:05:23.888Z",
               "EditorCaption": ""
@@ -97,12 +96,11 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\Auto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:04:29.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T13:04:29.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AssetDAO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\classes\\AssetDAO.cs",
               "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\classes\\AssetDAO.cs",
@@ -123,8 +121,7 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\IDao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:58:07.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:58:07.755Z"
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\Asset.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:56:02.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:56:02.045Z"
             },
             {
               "$type": "Document",
@@ -149,12 +145,11 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\classes\\Dipendente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:55:46.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:55:46.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez03_dal_refactor\\DB_lez03_dal_refactor\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez03_dal_refactor\\Program.cs",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "DB_lez03_dal_refactor\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:55:05.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:55:05.978Z"
             }
           ]
         }

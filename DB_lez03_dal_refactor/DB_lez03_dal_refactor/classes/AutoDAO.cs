@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DB_lez03_dal_refactor.classes
 {
-    internal class AutoDAL : IDao<Auto>
+    internal class AutoDAO : IDao<Auto>
     {
         public bool Delete(int id)
         {

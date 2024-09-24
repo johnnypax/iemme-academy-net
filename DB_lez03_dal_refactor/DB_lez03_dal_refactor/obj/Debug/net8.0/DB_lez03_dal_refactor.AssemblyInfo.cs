@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez03_dal_refactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34d39bfe4df28d1306e3a17bfb07af91ae0c0ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da19f9ba80ceb8455a77f62f2b889bb1dbe6be6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez03_dal_refactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez03_dal_refactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

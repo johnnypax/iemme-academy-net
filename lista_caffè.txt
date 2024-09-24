@@ -1,7 +1,11 @@
 Luis		+2
+Andrea F.	+2
+Alice Ant.	+2
 Riccardo	+1
-Andrea F.	+1
-Alice Ant.	+1
-Sara		+1
-Antonio		+0
+Sara		+2
 Roberta		+1
+Leonardo	+1
+Alessio		+1
+Davide		+1
+Federico	+1
+Antonio		+0
