@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_Lez01_primi_passi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5B1E60-BCF9-4DED-B985-AE9E8D43BEA3}|DB_Lez01_primi_passi\\DB_Lez01_primi_passi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez01_primi_passi\\db_lez01_primi_passi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5B1E60-BCF9-4DED-B985-AE9E8D43BEA3}|DB_Lez01_primi_passi\\DB_Lez01_primi_passi.csproj|solutionrelative:db_lez01_primi_passi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5B1E60-BCF9-4DED-B985-AE9E8D43BEA3}|DB_Lez01_primi_passi\\DB_Lez01_primi_passi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez01_primi_passi\\db_lez01_primi_passi\\classes\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5B1E60-BCF9-4DED-B985-AE9E8D43BEA3}|DB_Lez01_primi_passi\\DB_Lez01_primi_passi.csproj|solutionrelative:db_lez01_primi_passi\\classes\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_Lez01_primi_passi\\DB_Lez01_primi_passi\\classes\\Dipendente.cs",
+              "RelativeDocumentMoniker": "DB_Lez01_primi_passi\\classes\\Dipendente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_Lez01_primi_passi\\DB_Lez01_primi_passi\\classes\\Dipendente.cs",
+              "RelativeToolTip": "DB_Lez01_primi_passi\\classes\\Dipendente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:52:38.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_Lez01_primi_passi\\DB_Lez01_primi_passi\\Program.cs",
+              "RelativeDocumentMoniker": "DB_Lez01_primi_passi\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_Lez01_primi_passi\\DB_Lez01_primi_passi\\Program.cs",
+              "RelativeToolTip": "DB_Lez01_primi_passi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:52:31.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
