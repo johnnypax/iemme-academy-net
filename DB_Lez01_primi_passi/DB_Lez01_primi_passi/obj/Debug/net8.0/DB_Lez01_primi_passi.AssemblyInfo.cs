@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_Lez01_primi_passi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de9537c4529f6d23562ea252327eceab4635c0e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34d39bfe4df28d1306e3a17bfb07af91ae0c0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_Lez01_primi_passi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_Lez01_primi_passi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
