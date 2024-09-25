@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\bin\Debug\net8.0\LINQ_lez04_join.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\refint\LINQ_lez04_join.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\LINQ_lez04_join.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez04_join\LINQ_lez04_join\obj\Debug\net8.0\ref\LINQ_lez04_join.dll

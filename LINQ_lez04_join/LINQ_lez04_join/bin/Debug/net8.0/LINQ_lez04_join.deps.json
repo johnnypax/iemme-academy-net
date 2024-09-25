@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ_lez04_join/1.0.0": {
+        "runtime": {
+          "LINQ_lez04_join.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_lez04_join/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

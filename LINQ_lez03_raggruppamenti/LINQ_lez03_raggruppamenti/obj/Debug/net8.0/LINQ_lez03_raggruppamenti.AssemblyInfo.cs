@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_lez03_raggruppamenti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798c2f63879b1e942ae136ed45796b69551d1c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+091a1f85ee56e5a65263c69b464dc28094340125")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_lez03_raggruppamenti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_lez03_raggruppamenti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\linq_lez04_join\\linq_lez04_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|solutionrelative:linq_lez04_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\linq_lez04_join\\linq_lez04_join\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|solutionrelative:linq_lez04_join\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\linq_lez04_join\\linq_lez04_join\\models\\dipartimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA0B1DC-645F-46EE-9788-42690479D206}|LINQ_lez04_join\\LINQ_lez04_join.csproj|solutionrelative:linq_lez04_join\\models\\dipartimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dipartimento.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Models\\Dipartimento.cs",
+              "RelativeDocumentMoniker": "LINQ_lez04_join\\Models\\Dipartimento.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Models\\Dipartimento.cs",
+              "RelativeToolTip": "LINQ_lez04_join\\Models\\Dipartimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:52:00.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "LINQ_lez04_join\\Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Models\\Docente.cs",
+              "RelativeToolTip": "LINQ_lez04_join\\Models\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:51:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_lez04_join\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\LINQ_lez04_join\\LINQ_lez04_join\\Program.cs",
+              "RelativeToolTip": "LINQ_lez04_join\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:47:30.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

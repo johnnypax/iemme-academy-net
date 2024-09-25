@@ -8,6 +8,7 @@ namespace LINQ_lez03_raggruppamenti.Models
 {
     internal class Libro
     {
+        public int Id { get; set; }
         public string? Titolo { get; set; }
         public string? Autore { get; set; }
         public string? Categoria { get; set; }
@@ -19,9 +20,17 @@ namespace LINQ_lez03_raggruppamenti.Models
             Categoria = categoria;
         }
 
+        public Libro(int id, string? titolo, string? autore, string? categoria)
+        {
+            Id = id;
+            Titolo = titolo;
+            Autore = autore;
+            Categoria = categoria;
+        }
+
         public override string ToString()
         {
-            return $"[LIBRO] {Titolo} {Autore} {Categoria}";
+            return $"[LIBRO] {Id} {Titolo} {Autore} {Categoria}";
         }
     }
 }
