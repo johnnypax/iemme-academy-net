@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\bin\Debug\net8.0\LINQ_lez05_taskino.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\bin\Debug\net8.0\LINQ_lez05_taskino.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\bin\Debug\net8.0\LINQ_lez05_taskino.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\bin\Debug\net8.0\LINQ_lez05_taskino.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\bin\Debug\net8.0\LINQ_lez05_taskino.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\refint\LINQ_lez05_taskino.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\LINQ_lez05_taskino.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez05_taskino\LINQ_lez05_taskino\obj\Debug\net8.0\ref\LINQ_lez05_taskino.dll

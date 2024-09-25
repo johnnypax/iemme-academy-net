@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ_lez05_taskino/1.0.0": {
+        "runtime": {
+          "LINQ_lez05_taskino.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_lez05_taskino/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
