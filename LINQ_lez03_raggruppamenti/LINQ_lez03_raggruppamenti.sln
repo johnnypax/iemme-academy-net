@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_lez03_raggruppamenti", "LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti.csproj", "{0885F206-FAF1-406D-9DF3-764D14580946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0885F206-FAF1-406D-9DF3-764D14580946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0885F206-FAF1-406D-9DF3-764D14580946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0885F206-FAF1-406D-9DF3-764D14580946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0885F206-FAF1-406D-9DF3-764D14580946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6931EBA0-733D-4C42-9734-B97810FED5C4}
+	EndGlobalSection
+EndGlobal

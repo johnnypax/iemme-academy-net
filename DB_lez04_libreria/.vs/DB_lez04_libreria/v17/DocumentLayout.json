@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez04_libreria\\db_lez04_libreria\\classes\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|solutionrelative:db_lez04_libreria\\classes\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez04_libreria\\db_lez04_libreria\\classes\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|solutionrelative:db_lez04_libreria\\classes\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez04_libreria\\db_lez04_libreria\\classes\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|solutionrelative:db_lez04_libreria\\classes\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez04_libreria\\db_lez04_libreria\\classes\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|solutionrelative:db_lez04_libreria\\classes\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8296AA9-D05D-45C3-94B5-721DA32525B2}|DB_lez04_libreria\\DB_lez04_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez04_libreria\\db_lez04_libreria\\classes\\dal\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\classes\\DAL\\Config.cs",
               "RelativeDocumentMoniker": "DB_lez04_libreria\\classes\\DAL\\Config.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\classes\\DAL\\Config.cs",
               "RelativeToolTip": "DB_lez04_libreria\\classes\\DAL\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T14:59:02.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LibroDAO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\classes\\DAL\\LibroDAO.cs",
               "RelativeDocumentMoniker": "DB_lez04_libreria\\classes\\DAL\\LibroDAO.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\classes\\DAL\\LibroDAO.cs",
               "RelativeToolTip": "DB_lez04_libreria\\classes\\DAL\\LibroDAO.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T14:44:56.891Z",
               "EditorCaption": ""
@@ -68,12 +68,11 @@
               "RelativeToolTip": "DB_lez04_libreria\\classes\\DAL\\IDao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:39:42.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T14:39:42.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\classes\\Libro.cs",
               "RelativeDocumentMoniker": "DB_lez04_libreria\\classes\\Libro.cs",
@@ -81,12 +80,11 @@
               "RelativeToolTip": "DB_lez04_libreria\\classes\\Libro.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:15:26.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T14:15:26.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez04_libreria\\DB_lez04_libreria\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez04_libreria\\Program.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "DB_lez04_libreria\\Program.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:10:40.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T14:10:40.291Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\bin\Debug\net8.0\LINQ_lez01_filtri_numeri.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\bin\Debug\net8.0\LINQ_lez01_filtri_numeri.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\bin\Debug\net8.0\LINQ_lez01_filtri_numeri.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\bin\Debug\net8.0\LINQ_lez01_filtri_numeri.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\bin\Debug\net8.0\LINQ_lez01_filtri_numeri.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\refint\LINQ_lez01_filtri_numeri.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\LINQ_lez01_filtri_numeri.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez01_filtri_numeri\LINQ_lez01_filtri_numeri\obj\Debug\net8.0\ref\LINQ_lez01_filtri_numeri.dll

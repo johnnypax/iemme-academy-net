@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DB_lez05_calcolatrice_singleton/1.0.0": {
+        "runtime": {
+          "DB_lez05_calcolatrice_singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DB_lez05_calcolatrice_singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

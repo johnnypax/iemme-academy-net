@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\bin\Debug\net8.0\LINQ_lez03_raggruppamenti.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\bin\Debug\net8.0\LINQ_lez03_raggruppamenti.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\bin\Debug\net8.0\LINQ_lez03_raggruppamenti.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\bin\Debug\net8.0\LINQ_lez03_raggruppamenti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\bin\Debug\net8.0\LINQ_lez03_raggruppamenti.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\refint\LINQ_lez03_raggruppamenti.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\LINQ_lez03_raggruppamenti.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LINQ_lez03_raggruppamenti\LINQ_lez03_raggruppamenti\obj\Debug\net8.0\ref\LINQ_lez03_raggruppamenti.dll

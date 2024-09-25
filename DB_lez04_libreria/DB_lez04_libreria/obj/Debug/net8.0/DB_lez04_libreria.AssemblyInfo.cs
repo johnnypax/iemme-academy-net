@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez04_libreria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da19f9ba80ceb8455a77f62f2b889bb1dbe6be6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798c2f63879b1e942ae136ed45796b69551d1c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez04_libreria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez04_libreria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

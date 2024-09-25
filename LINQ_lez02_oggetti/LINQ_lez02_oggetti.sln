@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_lez02_oggetti", "LINQ_lez02_oggetti\LINQ_lez02_oggetti.csproj", "{27500E6D-C2C8-4C60-A4F1-2837F6F2CAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27500E6D-C2C8-4C60-A4F1-2837F6F2CAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27500E6D-C2C8-4C60-A4F1-2837F6F2CAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27500E6D-C2C8-4C60-A4F1-2837F6F2CAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27500E6D-C2C8-4C60-A4F1-2837F6F2CAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999211E5-AE13-45C6-A895-4085D32FC64E}
+	EndGlobalSection
+EndGlobal

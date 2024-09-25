@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez07_dipendenza_ciclica\\db_lez07_dipendenza_ciclica\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|solutionrelative:db_lez07_dipendenza_ciclica\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez07_dipendenza_ciclica\\db_lez07_dipendenza_ciclica\\models\\albergo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|solutionrelative:db_lez07_dipendenza_ciclica\\models\\albergo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez07_dipendenza_ciclica\\db_lez07_dipendenza_ciclica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00AB38A-7CDE-48D5-87F4-7191FA7D883D}|DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica.csproj|solutionrelative:db_lez07_dipendenza_ciclica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Albergo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Models\\Albergo.cs",
+              "RelativeDocumentMoniker": "DB_lez07_dipendenza_ciclica\\Models\\Albergo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Models\\Albergo.cs",
+              "RelativeToolTip": "DB_lez07_dipendenza_ciclica\\Models\\Albergo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:02:01.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez07_dipendenza_ciclica\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Program.cs",
+              "RelativeToolTip": "DB_lez07_dipendenza_ciclica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:39:18.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Models\\Camera.cs",
+              "RelativeDocumentMoniker": "DB_lez07_dipendenza_ciclica\\Models\\Camera.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez07_dipendenza_ciclica\\DB_lez07_dipendenza_ciclica\\Models\\Camera.cs",
+              "RelativeToolTip": "DB_lez07_dipendenza_ciclica\\Models\\Camera.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:02:12.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

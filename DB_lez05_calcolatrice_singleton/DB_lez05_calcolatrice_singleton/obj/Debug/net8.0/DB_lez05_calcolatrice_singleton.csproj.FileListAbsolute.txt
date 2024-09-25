@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\bin\Debug\net8.0\DB_lez05_calcolatrice_singleton.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\bin\Debug\net8.0\DB_lez05_calcolatrice_singleton.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\bin\Debug\net8.0\DB_lez05_calcolatrice_singleton.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\bin\Debug\net8.0\DB_lez05_calcolatrice_singleton.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\bin\Debug\net8.0\DB_lez05_calcolatrice_singleton.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\refint\DB_lez05_calcolatrice_singleton.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\DB_lez05_calcolatrice_singleton.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\DB_lez05_calcolatrice_singleton\DB_lez05_calcolatrice_singleton\obj\Debug\net8.0\ref\DB_lez05_calcolatrice_singleton.dll
