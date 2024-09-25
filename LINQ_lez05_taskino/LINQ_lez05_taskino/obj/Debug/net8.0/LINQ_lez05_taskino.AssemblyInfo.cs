@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_lez05_taskino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c2ed7b96299173fb87b6f0e359c687033c8960b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86b56489e730c64c2251f375c352178127f37ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_lez05_taskino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_lez05_taskino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

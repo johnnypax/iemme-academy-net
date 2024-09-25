@@ -71,6 +71,21 @@ namespace LINQ_lez05_taskino
             //Console.WriteLine(risultato);
 
             #endregion
+
+            #region Riepilogare le quantità numeriche per categoria di prodotto
+
+            var raggrupamenti = from prodotto in elenco
+                                group prodotto by prodotto.Categoria into contCategoria
+                                select contCategoria;
+
+            foreach (var gruppo in raggrupamenti)
+            {
+                Console.WriteLine(gruppo.Key);
+                float somma = gruppo.Sum(p => p.Quantita);
+                Console.WriteLine(somma);
+            }
+
+            #endregion
         }
     }
 }

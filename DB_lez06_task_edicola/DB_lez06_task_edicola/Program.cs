@@ -20,8 +20,9 @@
              * Creare un sistema che si occupi di:
              * 1. Inserire riviste o giocattoli
              * 2. Stampare tutti i prodotti
-             * 3. Stampare solo le riviste
-             * 4. Stampare solo i giocattoli
+             * 3. Stampare solo le riviste (con LINQ)
+             * 4. Stampare solo i giocattoli (con LINQ)
+             * 5. Conta tutti gli elementi (con LINQ)
              * 5. Cercare un elemento e stamparne i dettagli tramite il codice univoco.
              */
         }
