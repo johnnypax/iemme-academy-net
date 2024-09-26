@@ -1,4 +1,8 @@
-﻿namespace DB_lez06_task_edicola
+﻿using DB_lez06_task_edicola.Models;
+using DB_lez06_task_edicola.Models.DAL;
+using System.Collections;
+
+namespace DB_lez06_task_edicola
 {
     internal class Program
     {
@@ -25,6 +29,87 @@
              * 5. Conta tutti gli elementi (con LINQ)
              * 5. Cercare un elemento e stamparne i dettagli tramite il codice univoco.
              */
+
+            bool insAbi = true;
+
+            while (insAbi)
+            {
+                Console.WriteLine("Scegli la tua operazione:\n" +
+                    "I - Inserire riviste o giocattoli\n" +
+                    "S - Stampare tutti i prodotti\n" +
+                    "Q - Uscita");
+                string? inputUtente = Console.ReadLine();
+
+                switch (inputUtente)
+                {
+                    case "I":
+                        Console.WriteLine("Scegli cosa inserire:\n" +
+                            "G - Giocattolo\n" +
+                            "R - Rivista");
+                        string? tipoInserimento = Console.ReadLine();
+
+                        switch (tipoInserimento)
+                        {
+                            case "G":
+                                break;
+                            case "R":
+                                Console.WriteLine("Dammi il prezzo");
+                                double inPrezzo = (double)Convert.ToDecimal(Console.ReadLine());
+                                Console.WriteLine("Dammi il titolo");
+                                string? insTitolo = Console.ReadLine();
+                                Console.WriteLine("Dammi la Casa Ed");
+                                string? insCasa = Console.ReadLine();
+
+                                if (insCasa != null && insTitolo != null)
+                                {
+                                    Rivista riv = new Rivista()
+                                    {
+                                        Titolo = insTitolo,
+                                        CasaEd = insCasa,
+                                        Prezzo = inPrezzo
+                                    };
+
+                                    if(RivistaDAO.GetInstance().Insert(riv))
+                                        Console.WriteLine("Inserimento completato");
+                                    else
+                                        Console.WriteLine("Errore inserimento");
+                                }
+                                else
+                                    Console.WriteLine("Controlla i campi");
+
+                                break;
+                            default:
+                                Console.WriteLine("Il comando non è giusto");
+                                break;
+                        }
+                        break;
+                    case "S":
+                        List<Rivista> riviste = RivistaDAO.GetInstance().GetAll();
+                        List<Giocattolo> giocattoli = GiocattoloDAO.GetInstance().GetAll();
+
+                        List<Oggetto> elenco = new List<Oggetto>();
+
+                        if(riviste is not null && giocattoli is not null)
+                        {
+                            elenco.AddRange(riviste);
+                            elenco.AddRange(giocattoli);
+
+                            foreach (Oggetto o in elenco)
+                            {
+                                Console.WriteLine(o);
+                            }
+                        }
+                            
+
+                        break;
+                    case "Q":
+                        insAbi = false;
+                        break;
+                    default:
+                        Console.WriteLine("Comando non riconosciuto");
+                        break;
+                }
+            }
         }
     }
 }

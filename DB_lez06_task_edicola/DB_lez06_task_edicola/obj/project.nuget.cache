@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "bmeCwOHxFdsRx5C3TiQ0qmQH+Sikz2SjIU59DbWn/6ASJZrmkuBMLJZsfrXQKuqndAoMwoEqnKsuEM4LT+utcA==",
+  "dgSpecHash": "TrgUl1nV3lWJGEWlSv+GkotzTwGF9UJJfC6b0D2ACcvLfl5RI5gvjlaaGxs2pdUipX2YYB/6SGy0wcmWPGFNEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez06_task_edicola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798c2f63879b1e942ae136ed45796b69551d1c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db851185b078dccf9edaa078e63d9fdbde11f3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez06_task_edicola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez06_task_edicola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
