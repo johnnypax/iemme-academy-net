@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\dal\\rivistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\dal\\rivistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez06_task_edicola\\db_lez06_task_edicola\\db_lez06_task_edicola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7EB51874-F1C8-4363-B6EA-D9E798C31CF6}|DB_lez06_task_edicola\\DB_lez06_task_edicola.csproj|solutionrelative:db_lez06_task_edicola\\db_lez06_task_edicola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Edicola.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\Edicola.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\Edicola.cs",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "DB_lez06_task_edicola\\Models\\Edicola.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAFQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:57:13.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T09:57:13.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GiocattoloDAO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\GiocattoloDAO.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\DAL\\GiocattoloDAO.cs",
@@ -88,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RivistaDAO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
               "RelativeToolTip": "DB_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAArAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAABAwB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T08:09:04.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IDaoScrittura.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\IDaoScrittura.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\DAL\\IDaoScrittura.cs",
@@ -113,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IDaoLettura.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\IDaoLettura.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\DAL\\IDaoLettura.cs",
@@ -125,19 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\Config.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\DAL\\Config.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\DAL\\Config.cs",
               "RelativeToolTip": "DB_lez06_task_edicola\\Models\\DAL\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:59:48.643Z"
+              "WhenOpened": "2024-09-26T07:59:48.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Rivista.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\Rivista.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\Rivista.cs",
@@ -149,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Giocattolo.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\Giocattolo.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\Giocattolo.cs",
@@ -161,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "database.sql",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\database.sql",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\database.sql",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Oggetto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Models\\Oggetto.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Models\\Oggetto.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez06_task_edicola\\DB_lez06_task_edicola\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez06_task_edicola\\Program.cs",
@@ -204,8 +204,7 @@
               "RelativeToolTip": "DB_lez06_task_edicola\\Program.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAAAFYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:48:14.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T07:48:14.59Z"
             }
           ]
         }
