@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\EF_lez01_introduzione_mapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF195B7-464C-4D89-A3D0-B795AD1EA38C}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\ef_lez01_introduzione_mapping\\ef_lez01_introduzione_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF195B7-464C-4D89-A3D0-B795AD1EA38C}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|solutionrelative:ef_lez01_introduzione_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Program.cs",
+              "RelativeDocumentMoniker": "EF_lez01_introduzione_mapping\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Program.cs",
+              "RelativeToolTip": "EF_lez01_introduzione_mapping\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:49:23.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -37,6 +37,8 @@ namespace DB_lez06_task_edicola
                 Console.WriteLine("Scegli la tua operazione:\n" +
                     "I - Inserire riviste o giocattoli\n" +
                     "S - Stampare tutti i prodotti\n" +
+                    "R - Stampa le riviste\n" +
+                    "G - Stampa i giocattoli\n" +
                     "Q - Uscita");
                 string? inputUtente = Console.ReadLine();
 
@@ -60,22 +62,13 @@ namespace DB_lez06_task_edicola
                                 Console.WriteLine("Dammi la Casa Ed");
                                 string? insCasa = Console.ReadLine();
 
-                                if (insCasa != null && insTitolo != null)
+                                if(insCasa != null && insTitolo != null)
                                 {
-                                    Rivista riv = new Rivista()
-                                    {
-                                        Titolo = insTitolo,
-                                        CasaEd = insCasa,
-                                        Prezzo = inPrezzo
-                                    };
-
-                                    if(RivistaDAO.GetInstance().Insert(riv))
-                                        Console.WriteLine("Inserimento completato");
+                                    if (Edicola.GetInstance().InserisciRivista(inPrezzo, insTitolo, insCasa))
+                                        Console.Write("STAPPOOOOOOO");
                                     else
-                                        Console.WriteLine("Errore inserimento");
+                                        Console.Write("Errore");
                                 }
-                                else
-                                    Console.WriteLine("Controlla i campi");
 
                                 break;
                             default:
@@ -84,23 +77,14 @@ namespace DB_lez06_task_edicola
                         }
                         break;
                     case "S":
-                        List<Rivista> riviste = RivistaDAO.GetInstance().GetAll();
-                        List<Giocattolo> giocattoli = GiocattoloDAO.GetInstance().GetAll();
-
-                        List<Oggetto> elenco = new List<Oggetto>();
-
-                        if(riviste is not null && giocattoli is not null)
-                        {
-                            elenco.AddRange(riviste);
-                            elenco.AddRange(giocattoli);
-
-                            foreach (Oggetto o in elenco)
-                            {
-                                Console.WriteLine(o);
-                            }
-                        }
-                            
-
+                        Edicola.GetInstance().RecuperaTutto(); 
+                        Edicola.GetInstance().StampaOggetti(); 
+                        break;
+                    case "R":
+                        Edicola.GetInstance().StampaRiviste();
+                        break;
+                    case "G":
+                        Edicola.GetInstance().StampaGiocattoli();
                         break;
                     case "Q":
                         insAbi = false;

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez06_task_edicola")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EF_lez01_introduzione_mapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9f705e889cc6d26ecf20d16acabf9ed4db89e67")]
-[assembly: System.Reflection.AssemblyProductAttribute("DB_lez06_task_edicola")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DB_lez06_task_edicola")]
+[assembly: System.Reflection.AssemblyProductAttribute("EF_lez01_introduzione_mapping")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EF_lez01_introduzione_mapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
