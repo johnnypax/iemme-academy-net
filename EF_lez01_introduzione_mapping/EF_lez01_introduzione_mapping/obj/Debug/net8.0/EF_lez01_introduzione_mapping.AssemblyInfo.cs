@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF_lez01_introduzione_mapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043a0cbc48d595dce698ba8a14552e61a523d8f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f1d1730e8005bec2f441b8df50a15bd229d8977")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF_lez01_introduzione_mapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF_lez01_introduzione_mapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

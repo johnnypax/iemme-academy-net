@@ -16,4 +16,9 @@ public partial class Libro
     public string Editore { get; set; } = null!;
 
     public string Isbn { get; set; } = null!;
+
+    public override string ToString()
+    {
+        return $"[LIBRO] {LibroId} {Titolo} {Autore} {Pagine} {Isbn}";
+    }
 }

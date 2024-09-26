@@ -5,7 +5,7 @@ Riccardo	+1
 Sara		+3
 Roberta		+1
 Leonardo	+1
-Alessio		+2
+Alessio		+1
 Davide		+1
 Federico	+1
 Antonio		+0
