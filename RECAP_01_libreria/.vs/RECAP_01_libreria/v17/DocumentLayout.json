@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\models\\recaplibrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\models\\recaplibrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_01_libreria\\recap_01_libreria\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{6B66391D-1678-4BD2-A7D3-D8E3071FCFB6}|RECAP_01_libreria\\RECAP_01_libreria.csproj|solutionrelative:recap_01_libreria\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.sql ",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Database.sql",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Database.sql",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Database.sql",
+              "RelativeToolTip": "RECAP_01_libreria\\Database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-28T15:52:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Utente.cs",
+              "RelativeToolTip": "RECAP_01_libreria\\Models\\Utente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:28:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Prestito.cs",
+              "RelativeToolTip": "RECAP_01_libreria\\Models\\Prestito.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:27:53.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "RECAP_01_libreria\\Models\\Libro.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:27:38.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecapLibrContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\RecapLibrContext.cs",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Models\\RecapLibrContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Models\\RecapLibrContext.cs",
+              "RelativeToolTip": "RECAP_01_libreria\\Models\\RecapLibrContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:27:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Program.cs",
+              "RelativeDocumentMoniker": "RECAP_01_libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\RECAP_01_libreria\\RECAP_01_libreria\\Program.cs",
+              "RelativeToolTip": "RECAP_01_libreria\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:23:30.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

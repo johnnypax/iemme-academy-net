@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\bin\Debug\net8.0\recap_lez01_aggregazione.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\bin\Debug\net8.0\recap_lez01_aggregazione.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\bin\Debug\net8.0\recap_lez01_aggregazione.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\bin\Debug\net8.0\recap_lez01_aggregazione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\bin\Debug\net8.0\recap_lez01_aggregazione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\refint\recap_lez01_aggregazione.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\recap_lez01_aggregazione.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\recap_lez01_aggregazione\recap_lez01_aggregazione\obj\Debug\net8.0\ref\recap_lez01_aggregazione.dll

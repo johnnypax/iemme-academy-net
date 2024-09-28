@@ -20,7 +20,9 @@ namespace DB_lez05_calcolatrice_singleton.classes
 
         private Calcolatrice() {
             Console.WriteLine("Ho invocato il costruttore");
-        }  
+        }
+
+ 
 
         public float Somma(float a, float b)
         {

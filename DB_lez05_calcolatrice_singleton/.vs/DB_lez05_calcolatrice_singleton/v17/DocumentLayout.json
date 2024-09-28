@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez05_calcolatrice_singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez05_calcolatrice_singleton\\db_lez05_calcolatrice_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|solutionrelative:db_lez05_calcolatrice_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez05_calcolatrice_singleton\\db_lez05_calcolatrice_singleton\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|solutionrelative:db_lez05_calcolatrice_singleton\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez05_calcolatrice_singleton\\db_lez05_calcolatrice_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF3310A-4DB2-4302-AE1D-503C189ACE9E}|DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton.csproj|solutionrelative:db_lez05_calcolatrice_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,25 +17,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 187,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 277,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Calcolatrice.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton\\classes\\Calcolatrice.cs",
               "RelativeDocumentMoniker": "DB_lez05_calcolatrice_singleton\\classes\\Calcolatrice.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton\\classes\\Calcolatrice.cs",
               "RelativeToolTip": "DB_lez05_calcolatrice_singleton\\classes\\Calcolatrice.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T07:14:29.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez05_calcolatrice_singleton\\DB_lez05_calcolatrice_singleton\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez05_calcolatrice_singleton\\Program.cs",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "recap_lez01_aggregazione/1.0.0": {
+        "runtime": {
+          "recap_lez01_aggregazione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "recap_lez01_aggregazione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
