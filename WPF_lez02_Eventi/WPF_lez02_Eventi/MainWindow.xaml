@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPF_lez02_Eventi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lez02_Eventi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450
+">
+    <StackPanel x:Name="pnl_Principale" Background="AliceBlue">
+        <Button x:Name="btn_Cliccami" Click="btn_Cliccami_Click">
+            Cliccami
+        </Button>
+
+        <Button x:Name="btn_Chiudi" Click="btn_Chiudi_Click">
+            Chiudi
+        </Button>
+    </StackPanel>
+</Window>

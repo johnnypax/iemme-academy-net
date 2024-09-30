@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez06_02_HashTable_Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6986EB69-B316-4A64-A09A-824AA8E87A4B}|Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez06_02_hashtable_dictionary\\lez06_02_hashtable_dictionary\\lez06_02_hashtable_dictionary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6986EB69-B316-4A64-A09A-824AA8E87A4B}|Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj|solutionrelative:lez06_02_hashtable_dictionary\\lez06_02_hashtable_dictionary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6986EB69-B316-4A64-A09A-824AA8E87A4B}|Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\lez06_02_hashtable_dictionary\\lez06_02_hashtable_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6986EB69-B316-4A64-A09A-824AA8E87A4B}|Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj|solutionrelative:lez06_02_hashtable_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lez06_02_HashTable_Dictionary",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj",
+              "RelativeDocumentMoniker": "Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj",
+              "RelativeToolTip": "Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T13:13:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Lez06_02_HashTable_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\Lez06_02_HashTable_Dictionary\\Lez06_02_HashTable_Dictionary\\Program.cs",
+              "RelativeToolTip": "Lez06_02_HashTable_Dictionary\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:19:19.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

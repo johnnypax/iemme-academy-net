@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF_lez04_Contatti.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lez04_Contatti"
+        mc:Ignorable="d"
+        Title="Gestione Rubrica" Height="450" Width="400">
+    <DockPanel>
+        <StackPanel>
+            <Label>Nome</Label>
+            <TextBox Name="txt_Nome"></TextBox>
+            <Label>Cognome</Label>
+            <TextBox Name="txt_Cogn"></TextBox>
+            <Label>Email</Label>
+            <TextBox Name="txt_Emai"></TextBox>
+            <Label>Codice Fiscale</Label>
+            <TextBox Name="txt_Codf"></TextBox>
+
+            <Button x:Name="btn_Salva" Click="btn_Salva_Click">Salva</Button>
+        </StackPanel>
+        <Grid>
+            <DataGrid Name="dgContatti" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nome" Binding="{Binding Nome}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Cognome" Binding="{Binding Cognome}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Codice Fis." Binding="{Binding CodFis}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </DockPanel>
+</Window>

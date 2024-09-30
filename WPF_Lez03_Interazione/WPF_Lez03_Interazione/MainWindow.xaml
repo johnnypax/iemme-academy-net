@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPF_Lez03_Interazione.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lez03_Interazione"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <StackPanel Background="LimeGreen">
+
+        <Label>Nome</Label>
+        <TextBox x:Name="txtNome"></TextBox>
+        <Label>Cognome</Label>
+        <TextBox x:Name="txtCognome"></TextBox>
+        <Button x:Name="btn_Salva" Click="btn_Salva_Click">Salva</Button>
+
+        <TextBlock x:Name="tb_risultato"></TextBlock>
+
+        <Separator Height="4"></Separator>
+
+        <ListView>
+            <ListViewItem>Bologna</ListViewItem>
+            <ListViewItem>Roma</ListViewItem>
+            <ListViewItem>L'Aquila</ListViewItem>
+        </ListView>
+        
+    </StackPanel>
+</Window>

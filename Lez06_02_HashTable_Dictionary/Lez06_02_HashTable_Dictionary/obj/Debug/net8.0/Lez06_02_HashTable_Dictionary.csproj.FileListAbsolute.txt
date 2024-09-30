@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\bin\Debug\net8.0\Lez06_02_HashTable_Dictionary.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\bin\Debug\net8.0\Lez06_02_HashTable_Dictionary.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\bin\Debug\net8.0\Lez06_02_HashTable_Dictionary.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\bin\Debug\net8.0\Lez06_02_HashTable_Dictionary.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\bin\Debug\net8.0\Lez06_02_HashTable_Dictionary.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\refint\Lez06_02_HashTable_Dictionary.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\Lez06_02_HashTable_Dictionary.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\Lez06_02_HashTable_Dictionary\Lez06_02_HashTable_Dictionary\obj\Debug\net8.0\ref\Lez06_02_HashTable_Dictionary.dll

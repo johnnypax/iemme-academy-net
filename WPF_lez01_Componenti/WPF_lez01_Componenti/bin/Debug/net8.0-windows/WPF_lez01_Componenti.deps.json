@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPF_lez01_Componenti/1.0.0": {
+        "runtime": {
+          "WPF_lez01_Componenti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_lez01_Componenti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
