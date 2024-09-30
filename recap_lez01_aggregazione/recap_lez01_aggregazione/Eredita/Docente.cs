@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace recap_lez01_aggregazione.Eredita
 {
-    internal class Docente : Persona
+    internal class Docente : Personaggio
     {
         public string? Dipartimento { get; set; }
 
         public Docente()
+        {
+
+        }
+
+        public void StampaDocente()
         {
 
         }

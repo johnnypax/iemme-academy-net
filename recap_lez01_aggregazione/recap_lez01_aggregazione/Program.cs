@@ -7,6 +7,7 @@ namespace recap_lez01_aggregazione
     {
         static void Main(string[] args)
         {
+            #region Recap
             //int[] elenco = { 1, 2, 3 };
 
             //int somma = 0;
@@ -91,20 +92,61 @@ namespace recap_lez01_aggregazione
 
             //------------------------------------------------------ Media età
 
-            List<Models.Persona> elenco = new List<Models.Persona>()
-            {
-                new Models.Persona("GIovanni Pace", 37),
-                new Models.Persona("Valeria Verdi", 85),
-                new Models.Persona("Marika Mariko", 32),
-            };
+            //List<Models.Persona> elenco = new List<Models.Persona>()
+            //{
+            //    new Models.Persona("GIovanni Pace", 37),
+            //    new Models.Persona("Valeria Verdi", 85),
+            //    new Models.Persona("Marika Mariko", 32),
+            //};
 
-            int somma = 0;
-            foreach(Models.Persona persona in elenco)
-            {
-                somma += persona.Eta;
-            }
+            //int somma = 0;
+            //foreach(Models.Persona persona in elenco)
+            //{
+            //    somma += persona.Eta;
+            //}
 
-            Console.WriteLine(somma / elenco.Count);
+            //Console.WriteLine(somma / elenco.Count);
+            #endregion
+
+            //Personaggio gio = new Studente();
+            //gio.StampaPersonaggio();
+
+            //if(gio.GetType() == typeof(Studente)) { 
+            //    Studente stud = (Studente)gio;
+            //    stud.StampaStudente();
+            //}
+
+            // ----------------------------------------------------------
+
+            //ICollection<Personaggio> elenco = new List<Personaggio>()
+            //{
+            //    new Studente(){ },
+            //    new Studente(){ },
+            //    new Docente(){ },
+            //    new Docente(){ }
+            //};
+
+            //foreach(Personaggio per in elenco)
+            //{
+            //    if(per.GetType() == typeof(Studente))
+            //    {
+            //        Studente stu = (Studente)per;
+            //        stu.StampaStudente();
+            //    }
+
+
+            //    if (per.GetType() == typeof(Docente))
+            //    {
+            //        Docente doc = (Docente)per;
+            //        doc.StampaDocente();
+            //    }
+            //}
+
+            // -------------------------------------------------------------
+
+
+            ICollection<Personaggio> elenco = new List<Personaggio>();
+            elenco.Add(new Studente());
 
 
         }

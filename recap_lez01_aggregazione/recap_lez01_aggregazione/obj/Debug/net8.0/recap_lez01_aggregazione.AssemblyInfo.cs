@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("recap_lez01_aggregazione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4131f87c438e1f7dd6db4f901bc308fb262c1a3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ab51b21640030600f83b037e3b2e0e8d6ad5b7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("recap_lez01_aggregazione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("recap_lez01_aggregazione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

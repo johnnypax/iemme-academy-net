@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\dal\\prestitodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\dal\\prestitodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\recaplibrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\recaplibrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\db_lez09_correzione_libreria\\db_lez09_correzione_libreria\\models\\dal\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982B5812-1B5E-4566-9D45-A85B5F7123EB}|DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria.csproj|solutionrelative:db_lez09_correzione_libreria\\models\\dal\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:39:36.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Biblioteca.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\Biblioteca.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:10:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestitoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\PrestitoDAO.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\DAL\\PrestitoDAO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\PrestitoDAO.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\DAL\\PrestitoDAO.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAewEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:08:34.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtenteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\UtenteDAO.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\DAL\\UtenteDAO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\UtenteDAO.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\DAL\\UtenteDAO.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:06:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\IDao.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\DAL\\IDao.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\IDao.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\DAL\\IDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:50:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\LibroDAO.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\DAL\\LibroDAO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\DAL\\LibroDAO.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\DAL\\LibroDAO.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:48:51.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Utente.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\Utente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:21:34.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecapLibrContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\RecapLibrContext.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\RecapLibrContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\RecapLibrContext.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\RecapLibrContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:13:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Models\\Prestito.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Models\\Prestito.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:21:11.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez09_correzione_libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\DB_lez09_correzione_libreria\\DB_lez09_correzione_libreria\\Program.cs",
+              "RelativeToolTip": "DB_lez09_correzione_libreria\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:02:31.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
