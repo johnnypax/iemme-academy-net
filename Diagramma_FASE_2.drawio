@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-09-28T15:52:48.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="pV0SUFOZBWHDONYDRdxp" version="24.0.4" type="device" pages="11">
+<mxfile host="Electron" modified="2024-10-01T07:18:43.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="11-pDw-AImJI4QLppHfZ" version="24.0.4" type="device" pages="12">
   <diagram name="Pagina-1" id="YdPWlzsY0eOfPwYLk2Th">
     <mxGraphModel dx="794" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4433,6 +4433,214 @@
             <mxPoint x="690" y="3950" as="sourcePoint" />
             <mxPoint x="730" y="3950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w2Y-HPbC6XA0oIr1TNQf" name="Pagina-12">
+    <mxGraphModel dx="1621" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L_erbtopUE9o3UmajS25-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-1" target="L_erbtopUE9o3UmajS25-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="240" />
+              <mxPoint x="390" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-1" value="Studente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-2" target="L_erbtopUE9o3UmajS25-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="240" />
+              <mxPoint x="390" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-2" value="Docente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-3" value="&lt;div&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/div&gt;Personaggio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-6" target="L_erbtopUE9o3UmajS25-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-6" value="Libro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-7" value="Utente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-8" target="L_erbtopUE9o3UmajS25-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-8" target="L_erbtopUE9o3UmajS25-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-8" value="Prenotazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-9" value="Coinvolto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="860" as="sourcePoint" />
+            <mxPoint x="250" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;" edge="1" parent="1" target="L_erbtopUE9o3UmajS25-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-13" value="Effettuare" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="860" as="sourcePoint" />
+            <mxPoint x="670" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-17" value="Prenotazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-18" value="Utente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1000" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-19" value="Libro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-20" target="L_erbtopUE9o3UmajS25-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-20" value="- titolo : string&lt;div&gt;- prestitos: [Pren.]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-21" value="+ Libro()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-22" target="L_erbtopUE9o3UmajS25-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-22" value="- nominativo: string&lt;div&gt;- prestitos: [Pren.]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-23" value="+ Utente()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-25" target="L_erbtopUE9o3UmajS25-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1270" />
+              <mxPoint x="380" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1250" />
+              <mxPoint x="380" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-25" target="L_erbtopUE9o3UmajS25-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-25" value="- dataInizio : date&lt;div&gt;- dataFIne : date&lt;/div&gt;&lt;div&gt;- utenteNav: Utente&lt;/div&gt;&lt;div&gt;- libroNav : Libro&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-26" value="+ Prenotazione()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-31" value="Biblioteca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1200" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-32" value="+ elencoLibri :&amp;nbsp; [Libro]&lt;div&gt;+ elencoUtenti : [Utente]&lt;/div&gt;&lt;div&gt;+ elencoPren: [Pren.]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-33" value="+ Libreria()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-37" target="L_erbtopUE9o3UmajS25-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-37" value="Pino" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1910" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-38" target="L_erbtopUE9o3UmajS25-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-38" value="Program" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-40" value="Biblioteca&lt;br&gt;Gestore" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-43" target="L_erbtopUE9o3UmajS25-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-43" value="UtenteDAO" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-44" value="StampaUtenteConPrenotazioni" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;GetByCodiceConPrenotazioni&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1850" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-47" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1910" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-50" target="L_erbtopUE9o3UmajS25-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-50" value="PrenotazioneDAO" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L_erbtopUE9o3UmajS25-50" target="L_erbtopUE9o3UmajS25-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="2140" as="sourcePoint" />
+            <mxPoint x="70" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-55" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2150" as="sourcePoint" />
+            <mxPoint x="200" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-56" value="APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="2300" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="L_erbtopUE9o3UmajS25-57" value="MainWindow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="2325" width="580" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
