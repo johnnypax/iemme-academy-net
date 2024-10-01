@@ -1,0 +1,33 @@
+td {
+    border: 1px solid;
+}
+
+.larghezza-100{
+    width: 100%;
+}
+
+.larghezza-50{
+    width: 50%;
+}
+
+.logo-contenitore{
+    text-align: center;
+}
+
+.logo{
+    height: 75px;
+}
+
+.navigation{
+    width: 30%;
+}
+
+.contenuto{
+    padding: 15px;
+    text-align: justify;
+}
+
+.footer{
+    text-align: center;
+    padding: 15px;
+}
