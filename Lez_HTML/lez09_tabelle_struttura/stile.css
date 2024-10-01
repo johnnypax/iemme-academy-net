@@ -1,0 +1,27 @@
+.bg-giallo{
+    background-color: yellow;
+}
+
+.bg-verde{
+    background-color: green;
+}
+
+.larghezza-100{
+    width: 100%;
+}
+
+.larghezza-30{
+    width: 30%;
+}
+
+.testo-centrato{
+    text-align: center;
+}
+
+.testo-giustificato{
+    text-align: justify;
+}
+
+td {
+    border: 1px solid;
+}

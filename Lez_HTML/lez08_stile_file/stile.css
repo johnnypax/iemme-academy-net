@@ -1,0 +1,19 @@
+/* CSS */
+
+th {
+    color: blue;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.selezionato {
+    background-color: blue !important;
+    color: white;
+    font-weight: bold;
+}
+
+#gio-nome {
+    color: red;
+}

@@ -1,0 +1,23 @@
+td {
+    border: 1px solid;
+}
+
+p {
+    text-align: justify;
+}
+
+.larghezza-100{
+    width: 100%;
+}
+
+.larghezza-500{
+    width: 500px;
+}
+
+.centrato-orizzontalmente{
+    margin: auto;
+}
+
+.padding-interno{
+    padding: 15px;
+}
