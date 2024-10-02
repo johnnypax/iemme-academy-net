@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <title>Document</title>
 </head>
 <body>
@@ -10,5 +11,20 @@
         Creare un piccolo sistema di controllo temperatura (con input), se la temperatura è maggiore di 37.5 non permettere l'ingresso nel ristorante, altrimenti si! Attenzione ai valori limite! 
     -->
 
+    <div class="container mt-5">
+
+        <div class="form-group">
+            <label for="in-temp">Temperatura</label>
+            <input type="text" min="0" max="99" class="form-control" placeholder="Inserisci il valore" id="in-temp"/>
+        </div>
+
+        <button type="button" class="btn btn-primary btn-block" onclick="verifica()">Verifica</button>
+
+        <div id="risultato">
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
