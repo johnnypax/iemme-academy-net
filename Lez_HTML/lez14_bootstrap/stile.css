@@ -1,0 +1,9 @@
+.evidenziato{
+    color: limegreen;
+}
+
+@media screen and (max-width: 768px) {
+    .table td, .table th{
+        padding: 26px;
+    }
+}
