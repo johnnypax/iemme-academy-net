@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <!--
+    Creare un sistema di gestione invitati, le cui informazioni importanti sono:
+    - Nome
+    - Cognome
+    - Telefono
+    - Email.
+
+    Creare nella parte sinistra della pagina un form e nella parte destra una tabella che contenga tutti gli invitati. All'inserimento di un nuovo invitato, procedere con l'aggiornamento della tabella.
+    -->
+
+    <div class="container mt-3">
+
+        <div class="row">
+            <div class="col-md-4">
+                <!-- Iscrizione: Start -->
+                <h1>Inserisci utente</h1>
+
+                <div class="form-group">
+                    <label for="input-nome">Nome</label>
+                    <input type="text" class="form-control" id="input-nome"/>
+                </div>
+                <div class="form-group">
+                    <label for="input-cogn">Cognome</label>
+                    <input type="text" class="form-control" id="input-cogn"/>
+                </div>
+                <div class="form-group">
+                    <label for="input-tele">Telefono</label>
+                    <input type="text" class="form-control" id="input-tele"/>
+                </div>
+                <div class="form-group">
+                    <label for="input-emai">Email</label>
+                    <input type="text" class="form-control" id="input-emai"/>
+                </div>
+                <button type="button" class="btn btn-primary btn-block" onclick="salva()" >Salva</button>
+                <!-- Iscrizione: End -->
+            </div>
+            <div class="col-md-8">
+
+                <!-- Tabella: Start -->
+
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Nome</th>
+                            <th>Cognome</th>
+                            <th>Telefono</th>
+                            <th>Email</th>
+                        </tr>
+                    </thead>
+                    <tbody id="corpo-tabella">
+                        <!-- popolato dinamicamente -->
+                    </tbody>
+                </table>
+
+                <!-- Tabella: End -->
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

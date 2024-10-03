@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Apri console</h1>
+
+    <script>
+        // let elenco = ["BMW", "Lamborghini", "Fiat", 6];
+
+        // for(let i=0; i<elenco.length; i++){
+        //     console.log(elenco[i]);
+        // }
+
+        // for(let item of elenco){
+        //     console.log(item)
+        // }
+
+        // -----------------------------------------------
+
+        // let elenco = ["BMW", "Lamborghini", "Fiat", "Maserati"];
+
+        // elenco.push("Lexus");
+        // console.log(elenco);
+
+        // elenco.pop();
+        // console.log(elenco);
+
+        // console.log(elenco);
+        // elenco.splice(length, 1);
+
+        // -----------------------------------------------
+
+        // let persona = ["Giovanni", "Pace", 37];
+        // string: any
+
+        // let persona = {
+        //     nome: "Giovanni",
+        //     cognome: "Pace",
+        //     eta: 37
+        // };
+
+        // console.log(persona);
+        // console.log(persona.cognome);
+
+        // persona.animali = ["Bu", "Gattila"];
+
+        // console.log(persona)
+
+        // -----------------------------------------------
+
+        // let persona = {
+        //     nominativo: "GIovanni",
+        //     eta: 37,
+        //     animali: ["Bu", "Gattila"],
+        //     cod_fis: {
+        //         codice: "PCAGNN",
+        //         scadenza: "2020-01-01"
+        //     },
+        //     certificazioni: [
+        //         {
+        //             nome: "MBA",
+        //             codice: "AB123456"
+        //         },
+        //         {
+        //             nome: "DevOps",
+        //             codice: "AB123457",
+        //             data_scad: "2020-01-01"
+        //         }
+        //     ]
+        // }
+
+        // console.log(persona);
+
+        //------------------------------------------------------------
+
+        let elenco = [
+            {
+                nome: "Giovanni",
+                cognome: "Pace",
+                eta: 37
+            },
+            {
+                nome: "Valeria",
+                cognome: "Verdi",
+                eta: 35
+            },
+            {
+                nome: "Mario",
+                cognome: "Rossi",
+                eta: 31
+            },
+        ];
+    
+
+        // for(let [idx, item] of elenco.entries()){
+        //     console.log(idx, item)
+        // }
+
+        console.table(elenco)
+
+
+    </script>
+
+</body>
+</html>
