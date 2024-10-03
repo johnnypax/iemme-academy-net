@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Apri console</h1>
+
+    <script>
+        // localStorage.setItem("nominativo", "Valeria Verdi")
+        // localStorage.setItem("matricola", "AB1234")
+
+        // let nom = localStorage.getItem("nominativo");
+        // console.log(nom)
+
+        // localStorage.removeItem("nominativo")
+
+        // localStorage.clear();
+
+        // -------------------------------------------------------------------------
+
+        // let persona = {
+        //     nome: "Giovanni",
+        //     cognome: "Pace",
+        //     eta: 37
+        // }
+
+        // let personaJson = JSON.stringify(persona);
+
+        // localStorage.setItem("docente", personaJson)
+
+        // let elemento = localStorage.getItem("docente");
+        // let elementoObj = JSON.parse(elemento);
+
+        // console.log(elementoObj)
+
+        // -------------------------------------------------------------------------
+
+        // let elenco = [
+        //     {
+        //         nome: "Giovanni",
+        //         cognome: "Pace",
+        //         matr: 1234
+        //     },
+        //     {
+        //         nome: "Valeria",
+        //         cognome: "Verdi",
+        //         matr: 1235
+        //     },
+        //     {
+        //         nome: "Mario",
+        //         cognome: "Rossi",
+        //         matr: 1236
+        //     },
+        // ]
+
+        // localStorage.setItem("elencoStudenti", JSON.stringify(elenco));
+
+        let risultato = JSON.parse(localStorage.getItem("elencoStudenti"))
+        console.log(risultato)
+</script>
+
+</body>
+</html>
