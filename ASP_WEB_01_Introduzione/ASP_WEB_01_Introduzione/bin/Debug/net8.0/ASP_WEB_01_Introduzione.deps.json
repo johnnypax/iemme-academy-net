@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASP_WEB_01_Introduzione/1.0.0": {
+        "runtime": {
+          "ASP_WEB_01_Introduzione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP_WEB_01_Introduzione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

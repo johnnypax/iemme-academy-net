@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\models_aggre\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|solutionrelative:recap_lez01_aggregazione\\models_aggre\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|solutionrelative:recap_lez01_aggregazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\eredita\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|solutionrelative:recap_lez01_aggregazione\\eredita\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\eredita\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|solutionrelative:recap_lez01_aggregazione\\eredita\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\eredita\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4250BCC4-EC97-42D2-B08C-F4BF9513173C}|recap_lez01_aggregazione\\recap_lez01_aggregazione.csproj|solutionrelative:recap_lez01_aggregazione\\eredita\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,57 +17,34 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 266,
+          "DockedWidth": 282,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edicola.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Models_Aggre\\Edicola.cs",
+              "RelativeDocumentMoniker": "recap_lez01_aggregazione\\Models_Aggre\\Edicola.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Models_Aggre\\Edicola.cs",
+              "RelativeToolTip": "recap_lez01_aggregazione\\Models_Aggre\\Edicola.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:53:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Program.cs",
               "RelativeDocumentMoniker": "recap_lez01_aggregazione\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Program.cs",
               "RelativeToolTip": "recap_lez01_aggregazione\\Program.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAADwv1cAAAAyAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwvwAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:24:24.452Z",
+              "WhenOpened": "2024-10-07T08:52:53.162Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Studente.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Studente.cs",
-              "RelativeDocumentMoniker": "recap_lez01_aggregazione\\Eredita\\Studente.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Studente.cs",
-              "RelativeToolTip": "recap_lez01_aggregazione\\Eredita\\Studente.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:23:08.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Personaggio.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Personaggio.cs",
-              "RelativeDocumentMoniker": "recap_lez01_aggregazione\\Eredita\\Personaggio.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Personaggio.cs",
-              "RelativeToolTip": "recap_lez01_aggregazione\\Eredita\\Personaggio.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:22:38.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Docente.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Docente.cs",
-              "RelativeDocumentMoniker": "recap_lez01_aggregazione\\Eredita\\Docente.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\recap_lez01_aggregazione\\recap_lez01_aggregazione\\Eredita\\Docente.cs",
-              "RelativeToolTip": "recap_lez01_aggregazione\\Eredita\\Docente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:22:38.179Z"
             }
           ]
         }

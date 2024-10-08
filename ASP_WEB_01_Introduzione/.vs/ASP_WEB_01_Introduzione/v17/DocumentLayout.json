@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\controllers\\pippocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\controllers\\pippocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\views\\pippo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\views\\pippo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\views\\pippo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\views\\pippo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_01_introduzione\\asp_web_01_introduzione\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D3F5CA6-D140-4E0F-B59F-26357B591932}|ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione.csproj|solutionrelative:asp_web_01_introduzione\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:04:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:54:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Pippo\\Test.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Views\\Pippo\\Test.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Pippo\\Test.cshtml",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Views\\Pippo\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:53:09.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Pippo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Views\\Pippo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Pippo\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Views\\Pippo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:52:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PippoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Controllers\\PippoController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Controllers\\PippoController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Controllers\\PippoController.cs",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Controllers\\PippoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:46:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:39:32.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:32:45.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_01_Introduzione\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_01_Introduzione\\ASP_WEB_01_Introduzione\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_01_Introduzione\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:32:17.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

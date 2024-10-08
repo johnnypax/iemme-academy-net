@@ -1,0 +1,23 @@
+﻿@model ASP_WEB_02_scambio_dati.Models.Persona
+@{
+    string frase = $"{ViewBag.Saluta} ed ho {ViewBag.Numero} anni";
+}
+
+<h1>@ViewBag.Titolo</h1>
+<h3>@ViewBag.Sottotitolo</h3>
+<p>@frase</p>
+
+<hr />
+
+<ul>
+    <li>Nominativo: <strong>@Model.Nominativo</strong></li>
+    <li>Codice Fiscale: @Model.CodFis</li>
+</ul>
+
+<script>
+    function dimmiCiao() {
+        alert("Prova");
+    }
+</script>
+
+<button type="button" class="btn btn-primary" onclick="dimmiCiao()">Cliccami</button>

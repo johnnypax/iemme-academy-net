@@ -13,6 +13,7 @@ namespace recap_lez01_aggregazione.Models
 
         public Edicola(string varNome)
         {
+            //Elenco = new List<Oggetto>();
             Nome = varNome;
         }
 

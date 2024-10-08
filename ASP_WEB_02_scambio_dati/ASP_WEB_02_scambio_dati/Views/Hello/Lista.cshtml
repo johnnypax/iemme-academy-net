@@ -1,0 +1,19 @@
+﻿@model List<ASP_WEB_02_scambio_dati.Models.Persona>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nominativo</th>
+            <th>Codice Fiscale</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Persona per in Model)
+        {
+            <tr>
+                <td>@per.Nominativo</td>
+                <td>@per.CodFis</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_02_scambio_dati\\asp_web_02_scambio_dati\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|solutionrelative:asp_web_02_scambio_dati\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_02_scambio_dati\\asp_web_02_scambio_dati\\views\\hello\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|solutionrelative:asp_web_02_scambio_dati\\views\\hello\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_02_scambio_dati\\asp_web_02_scambio_dati\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|solutionrelative:asp_web_02_scambio_dati\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_02_scambio_dati\\asp_web_02_scambio_dati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|solutionrelative:asp_web_02_scambio_dati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_02_scambio_dati\\asp_web_02_scambio_dati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF0C077-17AE-4F9B-9AB0-A70985F9C9BB}|ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati.csproj|solutionrelative:asp_web_02_scambio_dati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_02_scambio_dati\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_02_scambio_dati\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:02:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_02_scambio_dati\\Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_02_scambio_dati\\Views\\Hello\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:02:23.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_02_scambio_dati\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "ASP_WEB_02_scambio_dati\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:00:29.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_02_scambio_dati\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_WEB_02_scambio_dati\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:58:11.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Hello\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_02_scambio_dati\\Views\\Hello\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_02_scambio_dati\\ASP_WEB_02_scambio_dati\\Views\\Hello\\Lista.cshtml",
+              "RelativeToolTip": "ASP_WEB_02_scambio_dati\\Views\\Hello\\Lista.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:50:02.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
