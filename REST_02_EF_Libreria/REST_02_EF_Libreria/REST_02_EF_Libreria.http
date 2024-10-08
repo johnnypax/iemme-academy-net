@@ -1,0 +1,6 @@
+@REST_02_EF_Libreria_HostAddress = http://localhost:5050
+
+GET {{REST_02_EF_Libreria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

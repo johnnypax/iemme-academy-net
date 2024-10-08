@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_02_ef_libreria\\rest_02_ef_libreria\\repositories\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|solutionrelative:rest_02_ef_libreria\\repositories\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_02_ef_libreria\\rest_02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|solutionrelative:rest_02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_02_ef_libreria\\rest_02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|solutionrelative:rest_02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_02_ef_libreria\\rest_02_ef_libreria\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|solutionrelative:rest_02_ef_libreria\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_02_ef_libreria\\rest_02_ef_libreria\\models\\aeflez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3448D5C3-C990-4492-ADF1-F1FF2E524D60}|REST_02_EF_Libreria\\REST_02_EF_Libreria.csproj|solutionrelative:rest_02_ef_libreria\\models\\aeflez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "REST_02_EF_Libreria\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:13:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Repositories\\LibroRepo.cs",
+              "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Repositories\\LibroRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Repositories\\LibroRepo.cs",
+              "RelativeToolTip": "REST_02_EF_Libreria\\Repositories\\LibroRepo.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:00:38.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "REST_02_EF_Libreria\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:58:56.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "REST_02_EF_Libreria\\Models\\Libro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:52:53.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AEfLez02LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "RelativeToolTip": "REST_02_EF_Libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:52:47.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

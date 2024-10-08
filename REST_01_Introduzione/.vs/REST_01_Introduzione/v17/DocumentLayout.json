@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_01_introduzione\\rest_01_introduzione\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|solutionrelative:rest_01_introduzione\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_01_introduzione\\rest_01_introduzione\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|solutionrelative:rest_01_introduzione\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_01_introduzione\\rest_01_introduzione\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF50834-3C7C-493A-B8DE-4DB10DD5D35A}|REST_01_Introduzione\\REST_01_Introduzione.csproj|solutionrelative:rest_01_introduzione\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudenteController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Controllers\\StudenteController.cs",
+              "RelativeDocumentMoniker": "REST_01_Introduzione\\Controllers\\StudenteController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Controllers\\StudenteController.cs",
+              "RelativeToolTip": "REST_01_Introduzione\\Controllers\\StudenteController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:14:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "REST_01_Introduzione\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Models\\Studente.cs",
+              "RelativeToolTip": "REST_01_Introduzione\\Models\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:13:02.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "REST_01_Introduzione\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_01_Introduzione\\REST_01_Introduzione\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "REST_01_Introduzione\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:21:23.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
