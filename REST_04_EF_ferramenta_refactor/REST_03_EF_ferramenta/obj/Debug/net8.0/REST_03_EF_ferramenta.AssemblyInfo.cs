@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REST_03_EF_ferramenta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd2c87262180f93d8d8d857f0bf91445b5efb28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e12ae506411d3590da13b47589f65186aca1980")]
 [assembly: System.Reflection.AssemblyProductAttribute("REST_03_EF_ferramenta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REST_03_EF_ferramenta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+@REST_04_EF_Videoteche_HostAddress = http://localhost:5015
+
+GET {{REST_04_EF_Videoteche_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\repartorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_04_ef_ferramenta_refactor\\rest_03_ef_ferramenta\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C99ECF-F435-462C-95C4-3781C27BF558}|REST_03_EF_ferramenta\\REST_03_EF_ferramenta.csproj|solutionrelative:rest_03_ef_ferramenta\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Program.cs",
+              "RelativeToolTip": "REST_03_EF_ferramenta\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:41:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RepartoController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProdottoDTO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\ProdottoDTO.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RepartoService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\RepartoService.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Services\\RepartoService.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Reparto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Reparto.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\Reparto.cs",
@@ -104,12 +121,11 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\Reparto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:19:29.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:19:29.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RepartoDTO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
@@ -117,12 +133,11 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\RepartoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:20:22.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:20:22.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProdottoController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
@@ -130,12 +145,11 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T09:57:59.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T09:57:59.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProdottoService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Services\\ProdottoService.cs",
@@ -148,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Models\\Prodotto.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Models\\Prodotto.cs",
@@ -156,12 +170,11 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Models\\Prodotto.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAADwvxMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T09:53:16.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T09:53:16.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RepartoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
@@ -174,28 +187,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProdottoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
               "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAswE4AAAAIAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAwwGcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T08:04:47.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_04_EF_ferramenta_refactor\\REST_03_EF_ferramenta\\Repositories\\IRepository.cs",
               "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:02:47.254Z"
+              "WhenOpened": "2024-10-09T08:02:47.254Z",
+              "EditorCaption": ""
             }
           ]
         }

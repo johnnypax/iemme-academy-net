@@ -28,6 +28,12 @@ namespace REST_03_EF_ferramenta
 
             app.MapControllers();
 
+            app.UseCors(builder =>
+                 builder
+                 .WithOrigins("*")
+                 .AllowAnyMethod()
+                 .AllowAnyHeader());
+
             app.Run();
         }
     }
