@@ -1,0 +1,6 @@
+@REST_03_EF_ferramenta_HostAddress = http://localhost:5141
+
+GET {{REST_03_EF_ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

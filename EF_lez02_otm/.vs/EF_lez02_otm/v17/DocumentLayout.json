@@ -25,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 187,
+          "DockedWidth": 321,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "EF_lez02_otm\\Models\\Persona.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:32:36.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T14:32:36.164Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "EF_lez02_otm\\Models\\Cartum.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAwBMAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:32:41.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T14:32:41.231Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "EF_lez02_otm\\Models\\ALez06OtmCarteContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwBEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:31:52.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T14:31:52.574Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "EF_lez02_otm\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\EF_lez02_otm\\EF_lez02_otm\\Program.cs",
               "RelativeToolTip": "EF_lez02_otm\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAcwCkAAABlAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T14:26:29.505Z",
               "EditorCaption": ""

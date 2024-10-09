@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\REST_03_EF_ferramenta.props" />
+</Project>

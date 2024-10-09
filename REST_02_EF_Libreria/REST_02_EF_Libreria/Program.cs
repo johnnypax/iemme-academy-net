@@ -29,6 +29,8 @@ namespace REST_02_EF_Libreria
             app.MapControllers();
 
             app.Run();
+
+            var list = new List<bool>();
         }
     }
 }
