@@ -25,10 +25,7 @@ namespace REST_04_EF_Videoteche
 
             app.UseAuthorization();
 
-
             app.MapControllers();
-
-
 
             app.UseCors(builder =>
                  builder

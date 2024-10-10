@@ -31,5 +31,30 @@ namespace REST_04_EF_Videoteche.Controllers
         {
             return Ok(VideotecaService.GetInstance().CercaTutteVideoteche());
         }
+
+        [HttpPost]
+        public IActionResult InserisciVideoteca(VideotecaDTO vDto)
+        {
+            if ((vDto.Ind is not null && vDto.Ind.Trim().Length < 3) || (vDto.Nom is not null && vDto.Nom.Trim().Length < 3))
+                return BadRequest();
+
+            if (VideotecaService.GetInstance().InserisciVideoteca(vDto))
+                return Ok();
+
+            return BadRequest();
+        }
+
+        [HttpDelete("{varCodice}")]
+        public IActionResult EliminaVideoteca(string varCodice)
+        {
+            if(string.IsNullOrWhiteSpace(varCodice))
+                return BadRequest();
+
+            if (VideotecaService.GetInstance().EliminaVideoteca(varCodice))
+                return Ok();
+
+            return NotFound();
+        }
+
     }
 }

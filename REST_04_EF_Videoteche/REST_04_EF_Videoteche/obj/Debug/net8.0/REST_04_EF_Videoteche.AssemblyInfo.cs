@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REST_04_EF_Videoteche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e12ae506411d3590da13b47589f65186aca1980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+714ca4dc97dfc3fa04ee39ede59982ff1c801d6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("REST_04_EF_Videoteche")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REST_04_EF_Videoteche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

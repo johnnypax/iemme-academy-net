@@ -2,7 +2,7 @@
 {
     public class VideotecaDTO
     {
-        public string Cod { get; set; } = null!;
+        public string? Cod { get; set; }
 
         public string Nom { get; set; } = null!;
 

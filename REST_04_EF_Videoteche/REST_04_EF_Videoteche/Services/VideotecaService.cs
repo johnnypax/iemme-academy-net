@@ -1,4 +1,5 @@
-﻿using REST_04_EF_Videoteche.Models;
+﻿using REST_04_EF_Videoteche.Controllers;
+using REST_04_EF_Videoteche.Models;
 using REST_04_EF_Videoteche.Repos;
 
 namespace REST_04_EF_Videoteche.Services
@@ -52,6 +53,29 @@ namespace REST_04_EF_Videoteche.Services
             }
 
             return videotecaDTOs;
+        }
+
+        public bool InserisciVideoteca(VideotecaDTO vidDto)
+        {
+            Videoteca video = new Videoteca()
+            {
+                Codice = vidDto.Cod is not null ? vidDto.Cod : Guid.NewGuid().ToString().ToUpper(),
+                Indirizzo = vidDto.Ind,
+                Nome = vidDto.Nom
+            };
+
+            return VideotecaRepo.GetInstance().Insert(video);
+        }
+
+        public bool EliminaVideoteca(string varCod)
+        {
+            bool risultato = false;
+
+            Videoteca? videoteca = VideotecaRepo.GetInstance().GetByCodice(varCod);
+            if(videoteca is not null)
+                risultato = VideotecaRepo.GetInstance().Delete(videoteca.VideotecaId);
+
+            return risultato;
         }
     }
 }
