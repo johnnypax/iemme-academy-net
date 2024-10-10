@@ -9,5 +9,6 @@ namespace REST_05_EF_Videoteche_Ref.Models
         }
 
         public DbSet<Videoteca> Videoteche { get; set; }
+        public DbSet<Supporto> Supporti { get; set; }
     }
 }

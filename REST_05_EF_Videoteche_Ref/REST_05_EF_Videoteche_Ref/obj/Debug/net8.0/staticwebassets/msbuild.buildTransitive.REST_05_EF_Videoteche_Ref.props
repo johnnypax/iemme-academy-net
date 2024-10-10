@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\REST_05_EF_Videoteche_Ref.props" />
+</Project>

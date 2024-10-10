@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\controllers\\videotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\controllers\\videotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\repos\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\repos\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\services\\videotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\services\\videotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\models\\videotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\models\\videotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\repos\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\repos\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\models\\blockbustercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\models\\blockbustercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\models\\supporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\models\\supporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_05_ef_videoteche_ref\\rest_05_ef_videoteche_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEB4537C-9358-4407-AE7B-5DC23D7E8305}|REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref.csproj|solutionrelative:rest_05_ef_videoteche_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +58,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideotecaController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Controllers\\VideotecaController.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Controllers\\VideotecaController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Controllers\\VideotecaController.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Controllers\\VideotecaController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:33:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideotecaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\VideotecaDTO.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Models\\VideotecaDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\VideotecaDTO.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Models\\VideotecaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:25:59.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Services\\VideotecaService.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Services\\VideotecaService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Services\\VideotecaService.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Services\\VideotecaService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:10:36.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Services\\IService.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:09:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupportoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\SupportoRepo.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Repos\\SupportoRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\SupportoRepo.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Repos\\SupportoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:41:48.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Supporto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\Supporto.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Models\\Supporto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\Supporto.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Models\\Supporto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:39:16.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideotecaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\VideotecaRepo.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Repos\\VideotecaRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\VideotecaRepo.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Repos\\VideotecaRepo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:24:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Repos\\IRepo.cs",
+              "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:22:19.518Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,46 +172,46 @@
               "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Program.cs",
               "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvx0AAAAGAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:45:23.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\appsettings.json",
               "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\appsettings.json",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\appsettings.json",
               "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-10T10:37:10.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "BlockbusterContext.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\BlockbusterContext.cs",
               "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Models\\BlockbusterContext.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\BlockbusterContext.cs",
               "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Models\\BlockbusterContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:26:39.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Videoteca.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\Videoteca.cs",
               "RelativeDocumentMoniker": "REST_05_EF_Videoteche_Ref\\Models\\Videoteca.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_05_EF_Videoteche_Ref\\REST_05_EF_Videoteche_Ref\\Models\\Videoteca.cs",
               "RelativeToolTip": "REST_05_EF_Videoteche_Ref\\Models\\Videoteca.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:23:59.013Z",
               "EditorCaption": ""
