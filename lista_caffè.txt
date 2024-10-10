@@ -1,10 +1,10 @@
-Luis		+3
+Luis		+2
 Andrea F.	+3
 Alice Ant.	+2
 Riccardo	+3
 Sara		+4
 Roberta		+1
-Leonardo	+1
+Leonardo	+2
 Alessio		+1
 Davide		+1
 Federico	+0
@@ -13,4 +13,5 @@ Gianmarco	+1
 Lorenzo		+1
 Alessandro	+1
 Jessica		+1
+Francesca	+1
 M.		+1

@@ -46,4 +46,47 @@ function elimina(varCod){
     );
 }
 
+function salva(){
+
+    let varNome = $("#ins-nome").val();
+    let varIndi = $("#ins-indi").val();
+
+    if(varNome.trim() == ""){
+        alert("Attenzione, nome vuoto");
+        $("#ins-nome").focus();
+        return;
+    }
+    
+    if(varIndi.trim() == ""){
+        alert("Attenzione, indirizzo vuoto");
+        $("#ins-indi").focus();
+        return;
+    }
+
+    $.ajax({
+        url: "http://localhost:5015/api/videoteche",
+        type: "POST",
+        data: JSON.stringify(
+            {
+                nom: varNome,
+                ind: varIndi
+            }
+        ),
+        contentType: "application/json",
+        // dataType: "json",
+        success: function(){
+            alert("STAPPPOOOOOOOOOOO");
+            stampaTabella();
+        },
+        error: function(errore){
+            alert("Sto in errore");
+            console.log(errore)
+        },
+        complete: function(){
+            // alert("Ho finito");
+        }
+
+    })
+}
+
 stampaTabella();

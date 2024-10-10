@@ -7,14 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    <main class="container">
+    <main class="container mt-2">
 
         <table class="table table-striped">
             <thead>
                 <tr>
                     <th>Nome</th>
                     <th>Indirizzo</th>
-                    <th></th>
+                    <th>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#inserimentoModal">+</button>
+                    </th>
                 </tr>
             </thead>
             <tbody id="contenuto-tabella">
@@ -24,8 +26,37 @@
 
     </main>
 
+    <!-- Modal -->
+    <div class="modal fade" id="inserimentoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Aggiungi Videoteca</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            
+                <div class="form-group">
+                    <label for="ins-nome">Nome</label>
+                    <input type="text" class="form-control" placeholder="Inserisci valore" id="ins-nome">
+                </div>
+
+                <div class="form-group">
+                    <label for="ins-indi">Indirizzo</label>
+                    <input type="text" class="form-control" placeholder="Inserisci valore" id="ins-indi">
+                </div>
+
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" onclick="salva()">Salva</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
