@@ -21,11 +21,11 @@ namespace esercizio_01_officina.Services
 
         public InterventoDTO? CercaPerCodice(string codice)
         {
-            InterventoDTO? risultato = null;
+            InterventoDTOCompleto? risultato = null;
 
             Intervento? interv = _repo.GetByCodice(codice);
             if (interv is not null) {
-                risultato = new InterventoDTO()
+                risultato = new InterventoDTOCompleto()
                 {
                     Tar = interv.Targa,
                     Mar = interv.Marca,
@@ -54,58 +54,70 @@ namespace esercizio_01_officina.Services
 
         public bool Inserisci(InterventoDTO entity)
         {
-            if (entity.Cli is null || entity.Cli.Cod is null)
-                return false;
+            if(entity.GetType() == typeof(InterventoDTOCompleto)){
+                
+                InterventoDTOCompleto entDtoC = (InterventoDTOCompleto)entity;
 
-            int? cliId = _cliService.RestituisciIdCliente(entity.Cli.Cod);
-            if (!cliId.HasValue)
-                return false;
+                if (entDtoC.Cli is null || entDtoC.Cli.Cod is null)
+                    return false;
 
-            Intervento interv = new Intervento()
-            {
-                Targa = entity.Tar,
-                Marca = entity.Mar,
-                Stato = entity.Sta,
-                Codice = entity.Cod is not null ? entity.Cod : Guid.NewGuid().ToString().ToUpper(),
-                Modello = entity.Mod,
-                Prezzo = entity.Pre,
-                DataIngresso = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day),
-                Anno = entity.Ann,
-                ClienteRIF = (int)cliId
-            };
+                int? cliId = _cliService.RestituisciIdCliente(entDtoC.Cli.Cod);
+                if (!cliId.HasValue)
+                    return false;
 
-            return _repo.Create(interv);
+                Intervento interv = new Intervento()
+                {
+                    Targa = entDtoC.Tar,
+                    Marca = entDtoC.Mar,
+                    Stato = entDtoC.Sta,
+                    Codice = entDtoC.Cod is not null ? entDtoC.Cod : Guid.NewGuid().ToString().ToUpper(),
+                    Modello = entDtoC.Mod,
+                    Prezzo = entDtoC.Pre,
+                    DataIngresso = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day),
+                    Anno = entDtoC.Ann,
+                    ClienteRIF = (int)cliId
+                };
+
+                return _repo.Create(interv);
+            }
+
+            return false;
+
+            
             
         }
 
         public IEnumerable<InterventoDTO>? ElencoInterventiPerCliente(string codCli)
         {
-            List<InterventoDTO> risultato = new List<InterventoDTO>();
+            //List<InterventoDTO> risultato = new List<InterventoDTO>();
 
-            int? idCli = _cliService.RestituisciIdCliente(codCli);
-            if (!idCli.HasValue)
-                return null;
+            //int? idCli = _cliService.RestituisciIdCliente(codCli);
+            //if (!idCli.HasValue)
+            //    return null;
 
-            IEnumerable<Intervento> elenco = _repo.GetByClienteRif((int)idCli);
-            foreach(Intervento interv in elenco)
-            {
-                InterventoDTO temp = new InterventoDTO()
-                {
-                    Tar = interv.Targa,
-                    Mar = interv.Marca,
-                    Sta = interv.Stato,
-                    Cod = interv.Codice,
-                    Mod = interv.Modello,
-                    Pre = interv.Prezzo,
-                    Dat = interv.DataIngresso,
-                    Ann = interv.Anno,
-                    Cli = _cliService.CercaPerId(interv.ClienteRIF)
-                };
+            //IEnumerable<Intervento> elenco = _repo.GetByClienteRif((int)idCli);
+            //foreach(Intervento interv in elenco)
+            //{
+                
+            //    InterventoDTO temp = new InterventoDTO()
+            //    {
+            //        Tar = interv.Targa,
+            //        Mar = interv.Marca,
+            //        Sta = interv.Stato,
+            //        Cod = interv.Codice,
+            //        Mod = interv.Modello,
+            //        Pre = interv.Prezzo,
+            //        Dat = interv.DataIngresso,
+            //        Ann = interv.Anno,
+            //        Cli = _cliService.CercaPerId(interv.ClienteRIF)
+            //    };
 
-                risultato.Add(temp);
-            }
+            //    risultato.Add(temp);
+            //}
 
-            return risultato;
+            //return risultato;
+
+            throw new NotImplementedException();    
         }
     }
 }

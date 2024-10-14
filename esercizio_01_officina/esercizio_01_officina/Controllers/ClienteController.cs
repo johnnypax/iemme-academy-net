@@ -20,7 +20,7 @@ namespace esercizio_01_officina.Controllers
 
             if (string.IsNullOrWhiteSpace(varCodice))
                 return BadRequest();
-        
+
             ClienteDTO? risultato = _service.CercaPerCodice(varCodice);
             if(risultato is not null)
                 return Ok(risultato);
@@ -29,7 +29,7 @@ namespace esercizio_01_officina.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<ClienteDTO>> ListaClienti() {
+        public ActionResult<IEnumerable<ClienteDTOCompleto>> ListaClienti() {
             return Ok(_service.CercaTutti());
         }
 

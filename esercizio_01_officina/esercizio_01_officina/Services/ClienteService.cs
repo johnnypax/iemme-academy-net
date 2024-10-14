@@ -16,12 +16,12 @@ namespace esercizio_01_officina.Services
 
         public ClienteDTO? CercaPerCodice(string codice)
         {
-            ClienteDTO? risultato = null;
+            ClienteDTOCompleto? risultato = null;
 
             Cliente? cli = _repo.GetByCodice(codice);
             if (cli is not null)
             {
-                risultato = new ClienteDTO()
+                risultato = new ClienteDTOCompleto()
                 {
                     Cod = cli.Codice,
                     Nom = cli.Nome,
