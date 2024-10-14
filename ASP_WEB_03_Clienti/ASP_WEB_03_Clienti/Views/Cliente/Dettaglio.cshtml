@@ -1,0 +1,35 @@
+﻿@model Cliente
+
+<h1>Dettaglio cliente</h1>
+
+<ul>
+    <li>@Model.Nome</li>
+    <li>@Model.Cognome</li>
+    <li>@Model.Indirizzo</li>
+    <li>
+        <a href="tel:@Model.Telefono">@Model.Telefono</a>
+    </li>
+    <li>
+        <a href="mailto: @Model.Email">@Model.Email</a>
+    </li>
+</ul>
+
+<button type="button" class="btn btn-danger" onclick="elimina('@Model.Codice')">Elimina</button>
+<a href="/Cliente/Modifica/@Model.Codice" class="btn btn-warning">Modifica</a>
+
+<script>
+    function elimina(varCodice) {
+        $.ajax({
+            url: "/Cliente/Elimina/@Model.Codice",
+            type: "DELETE",
+            success: function () {
+                alert("STAPPOOOOOOOOOO");
+                window.location.href = "/Cliente/Lista"
+            },
+            error: function(errore){
+                alert("ERRORE");
+                console.log(errore)
+            }
+        })
+    }
+</script>

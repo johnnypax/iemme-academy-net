@@ -1,0 +1,33 @@
+﻿@model Cliente
+
+<main class="container mt-2">
+
+    <h1>Inserisci Cliente</h1>
+
+    <form method="post" asp-controller="Cliente" asp-action="Salva">
+        <div class="mt-3">
+            <label class="form-label" for="Nome">Nome</label>
+            <input type="text" class="form-control" asp-for="Nome"/>
+        </div>
+        <div class="mt-3">
+            <label class="form-label" for="Cognome">Cognome</label>
+            <input type="text" class="form-control" asp-for="Cognome" />
+        </div>
+        <div class="mt-3">
+            <label class="form-label" for="Indirizzo">Indirizzo</label>
+            <input type="text" class="form-control" asp-for="Indirizzo" />
+        </div>
+        <div class="mt-3">
+            <label class="form-label" for="Telefono">Telefono</label>
+            <input type="text" class="form-control" asp-for="Telefono" />
+        </div>
+        <div class="mt-3">
+            <label class="form-label" for="Email">Email</label>
+            <input type="email" class="form-control" asp-for="Email" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Salva</button>
+    </form>
+
+
+</main>

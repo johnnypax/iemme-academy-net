@@ -1,0 +1,28 @@
+﻿@model List<Cliente>
+
+<h1>Lista di clienti</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nominativo</th>
+            <th>Indirizzo</th>
+            <th>Telefono</th>
+            <th>Email</th>
+            <th>Azioni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Cliente cli in Model)
+        {
+            <tr>
+                <td>
+                    <a href="/Cliente/Dettaglio/@cli.Codice">@cli.Nome @cli.Cognome</a>
+                </td>
+                <td>@cli.Indirizzo</td>
+                <td>@cli.Telefono</td>
+                <td>@cli.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

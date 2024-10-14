@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\repositories\\clienterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\repositories\\clienterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\context\\officinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\context\\officinacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\errore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\errore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\repositories\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\repositories\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\repositories\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\repositories\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modifica.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:10:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dettaglio.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:45:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Errore.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Errore.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Errore.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Errore.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Errore.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:42:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inserisci.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Inserisci.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Inserisci.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Inserisci.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Inserisci.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:34:57.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:26:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Service\\ClienteService.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Service\\ClienteService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:18:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Lista.cshtml",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Lista.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:10:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:09:15.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\appsettings.json",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T13:05:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfficinaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Context\\OfficinaContext.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Context\\OfficinaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Context\\OfficinaContext.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Context\\OfficinaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:02:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Repositories\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\IRepoScrittura.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\IRepoScrittura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:02:07.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\IRepoLettura.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Repositories\\IRepoLettura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\IRepoLettura.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\IRepoLettura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:02:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\ClienteRepo.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Repositories\\ClienteRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Repositories\\ClienteRepo.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\ClienteRepo.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:01:46.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Models\\Cliente.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:01:03.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_03_Clienti\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:55:17.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
