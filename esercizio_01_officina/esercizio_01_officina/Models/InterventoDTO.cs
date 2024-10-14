@@ -11,5 +11,7 @@
         public string Sta { get; set; } = null!;
         public DateTime Dat { get; set; }      // ! attenzione
 
+        public ClienteDTO? Cli { get; set; }  
+
     }
 }

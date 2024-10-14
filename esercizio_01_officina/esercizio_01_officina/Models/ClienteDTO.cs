@@ -11,5 +11,6 @@ namespace esercizio_01_officina.Models
         public string? Tel { get; set; }
         public string? Ema { get; set; }
 
+
     }
 }

@@ -16,12 +16,12 @@ namespace esercizio_01_officina.Services
 
         public ClienteDTO? CercaPerCodice(string codice)
         {
-            ClienteDTOCompleto? risultato = null;
+            ClienteDTO? risultato = null;
 
             Cliente? cli = _repo.GetByCodice(codice);
             if (cli is not null)
             {
-                risultato = new ClienteDTOCompleto()
+                risultato = new ClienteDTO()
                 {
                     Cod = cli.Codice,
                     Nom = cli.Nome,
@@ -29,7 +29,7 @@ namespace esercizio_01_officina.Services
                     Ind = cli.Indirizzo,
                     Tel = cli.Telefono,
                     Ema = cli.Email,
-                    Interventi = _intServ.ElencoInterventiPerCliente(codice)
+                    //Interventi = _intServ.ElencoInterventiPerCliente(codice)
                 };
             }
 
@@ -93,6 +93,9 @@ namespace esercizio_01_officina.Services
 
         public bool Inserisci(ClienteDTO entity)
         {
+            if(entity.Nom is null || entity.Cog is null)
+                return false;
+
             Cliente cli = new Cliente()
             {
                 Codice = entity.Cod is not null ? entity.Cod : Guid.NewGuid().ToString().ToUpper(),

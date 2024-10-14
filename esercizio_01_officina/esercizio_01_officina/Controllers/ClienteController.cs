@@ -29,7 +29,7 @@ namespace esercizio_01_officina.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<ClienteDTOCompleto>> ListaClienti() {
+        public ActionResult<IEnumerable<ClienteDTO>> ListaClienti() {
             return Ok(_service.CercaTutti());
         }
 
