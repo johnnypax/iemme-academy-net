@@ -2,14 +2,16 @@
 {
     public class InterventoDTO
     {
-        public string Codice { get; set; } = null!;
-        public string Targa { get; set; } = null!;
-        public string Modello { get; set; } = null!;
-        public string Marca { get; set; } = null!;
-        public int Anno { get; set; }
-        public decimal Prezzo { get; set; }
-        public string Stato { get; set; } = null!;
-        public DateTime DataIngresso { get; set; }      // ! attenzione
+        public string? Cod { get; set; }
+        public string Tar { get; set; } = null!;
+        public string Mod { get; set; } = null!;
+        public string Mar { get; set; } = null!;
+        public int Ann { get; set; }
+        public decimal Pre { get; set; }
+        public string Sta { get; set; } = null!;
+        public DateTime Dat { get; set; }      // ! attenzione
+
+        public ClienteDTO? Cli { get; set; }
 
     }
 }

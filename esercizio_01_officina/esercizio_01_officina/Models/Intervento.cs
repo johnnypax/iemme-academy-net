@@ -13,6 +13,8 @@ namespace esercizio_01_officina.Models
         public int Anno { get; set; }
         public decimal Prezzo { get; set; }
         public string Stato { get; set; } = null!;
+
+        [Column("data_ingresso")]
         public DateTime DataIngresso { get; set; }      // ! attenzione
         public int ClienteRIF { get; set; }
 

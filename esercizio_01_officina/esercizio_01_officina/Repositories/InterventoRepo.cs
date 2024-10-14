@@ -35,7 +35,10 @@ namespace esercizio_01_officina.Repositories
         {
             return _context.Interventi.ToList();
         }
-
+        public Intervento? GetByCodice(string cod)
+        {
+            return _context.Interventi.FirstOrDefault(c => c.Codice == cod);
+        }
         public Intervento? GetById(int id)
         {
             return _context.Interventi.Find(id);

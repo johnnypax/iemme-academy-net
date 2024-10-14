@@ -29,7 +29,10 @@ namespace esercizio_01_officina
             );
 
             builder.Services.AddScoped<ClienteRepo>();   //AddTransient, AddScoped
+            builder.Services.AddScoped<InterventoRepo>();
+
             builder.Services.AddScoped<ClienteService>();
+            builder.Services.AddScoped<InterventoService>();
 
 
 #else

@@ -33,6 +33,38 @@ namespace esercizio_01_officina.Services
             return risultato;
         }
 
+        public int? RestituisciIdCliente(string codice)
+        {
+            int? risultato = null;
+
+            Cliente? cli = _repo.GetByCodice(codice);
+            if(cli is not null)
+                risultato = cli.ClienteID;
+
+            return risultato;
+        }
+
+        public ClienteDTO? CercaPerId(int id)
+        {
+            ClienteDTO? risultato = null;
+
+            Cliente? cli = _repo.GetById(id);
+            if (cli is not null)
+            {
+                risultato = new ClienteDTO()
+                {
+                    Cod = cli.Codice,
+                    Nom = cli.Nome,
+                    Cog = cli.Cognome,
+                    Ind = cli.Indirizzo,
+                    Tel = cli.Telefono,
+                    Ema = cli.Email
+                };
+            }
+
+            return risultato;
+        }
+
         public IEnumerable<ClienteDTO> CercaTutti()
         {
             ICollection<ClienteDTO> risultato = new List<ClienteDTO>();
