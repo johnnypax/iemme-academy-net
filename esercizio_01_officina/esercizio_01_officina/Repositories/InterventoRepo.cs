@@ -39,6 +39,12 @@ namespace esercizio_01_officina.Repositories
         {
             return _context.Interventi.FirstOrDefault(c => c.Codice == cod);
         }
+
+        public IEnumerable<Intervento> GetByClienteRif(int rif)
+        {
+            return _context.Interventi.Where(i => i.ClienteRIF == rif).ToList();
+        }
+
         public Intervento? GetById(int id)
         {
             return _context.Interventi.Find(id);

@@ -6,10 +6,12 @@ namespace esercizio_01_officina.Services
     public class ClienteService : IService<ClienteDTO>
     {
         private readonly ClienteRepo _repo;
+        private readonly InterventoService _intServ;
 
-        public ClienteService(ClienteRepo repo)
+        public ClienteService(ClienteRepo repo, InterventoService service)
         {
             _repo = repo;
+            _intServ = service;
         }
 
         public ClienteDTO? CercaPerCodice(string codice)
@@ -26,7 +28,8 @@ namespace esercizio_01_officina.Services
                     Cog = cli.Cognome,
                     Ind = cli.Indirizzo,
                     Tel = cli.Telefono,
-                    Ema = cli.Email
+                    Ema = cli.Email,
+                    Interventi = _intServ.ElencoInterventiPerCliente(codice)
                 };
             }
 

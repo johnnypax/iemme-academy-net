@@ -1,4 +1,6 @@
-﻿namespace esercizio_01_officina.Models
+﻿using System.Text.Json.Serialization;
+
+namespace esercizio_01_officina.Models
 {
     public class ClienteDTO
     {
@@ -8,6 +10,8 @@
         public string? Ind { get; set; }
         public string? Tel { get; set; }
         public string? Ema { get; set; }
+
+        public IEnumerable<InterventoDTO>? Interventi { get; set; }
 
     }
 }
