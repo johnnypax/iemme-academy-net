@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\esercizio_01_officina.props" />
+</Project>
