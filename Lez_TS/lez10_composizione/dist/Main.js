@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Albergo_1 = require("./Albergo");
+var Camera_1 = require("./Camera");
+var alb = new Albergo_1.default("Piazza la bomba e scappa");
+alb.aggiungiCamera(new Camera_1.default("101"));
+alb.aggiungiCamera(new Camera_1.default("102"));
+alb.aggiungiCamera(new Camera_1.default("103"));
+alb.aggiungiCamera(new Camera_1.default("104"));
+alb.stampaAlbergo();
