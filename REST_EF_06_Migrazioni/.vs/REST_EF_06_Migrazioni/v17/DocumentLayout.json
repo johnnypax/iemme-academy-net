@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\context\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015083118_AggiuntaCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST_EF_06_Migrazioni\\Migrations\\20241015083118_AggiuntaCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\rest_ef_06_migrazioni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\migrations\\20241015083118_aggiuntacodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF043586-7324-473F-BE92-5FC5A09C6A1E}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\migrations\\20241015083118_aggiuntacodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "20241015083118_AggiuntaCodice.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015083118_AggiuntaCodice.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015083118_AggiuntaCodice.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\20241015083118_AggiuntaCodice.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:31:18.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:31:18.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20241015081052_AggiuntaAutoreDistr.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015081052_AggiuntaAutoreDistr.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015081052_AggiuntaAutoreDistr.cs",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\20241015081052_AggiuntaAutoreDistr.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:10:52.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:10:52.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CinemaContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\CinemaContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\CinemaContextModelSnapshot.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\CinemaContextModelSnapshot.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAAwBoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:55:40.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:55:40.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "20241015074625_Iniziale.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015074625_Iniziale.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015074625_Iniziale.cs",
@@ -97,12 +94,11 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\20241015074625_Iniziale.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:46:25.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:46:25.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Program.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Program.cs",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAwBYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:43:22.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:43:22.99Z"
             },
             {
               "$type": "Document",
@@ -121,14 +116,14 @@
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Context\\CinemaContext.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Context\\CinemaContext.cs",
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Context\\CinemaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:40:10.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\appsettings.json",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\appsettings.json",
@@ -136,12 +131,11 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T07:38:09.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:38:09.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Film.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Models\\Film.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Models\\Film.cs",
@@ -149,21 +143,19 @@
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Models\\Film.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAUwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:26:55.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:26:55.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "REST_EF_06_Migrazioni",
+              "DocumentIndex": 7,
+              "Title": "REST_EF_06_Migrazioni.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj",
               "RelativeToolTip": "REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T07:26:08.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T07:26:08.571Z"
             }
           ]
         }

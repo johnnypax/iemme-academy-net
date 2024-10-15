@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REST_EF_06_Migrazioni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46544d236ff28ab5ad6ee4fd3f78414ddd8243dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53bc453b7967161b5c29c7379f81f3a5ac889c5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("REST_EF_06_Migrazioni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REST_EF_06_Migrazioni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

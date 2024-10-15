@@ -2,13 +2,13 @@ Luis		+2
 Andrea F.	+3
 Alice Ant.	+2
 Riccardo	+3
-Sara		+5
+Sara		+6
 Roberta		+2
 Leonardo	+2
 Alessio		+0
 Davide		+1
 Federico	+0
-Antonio		+0
+Antonio		+1
 Gianmarco	+2
 Lorenzo		+1
 Alessandro	+1
