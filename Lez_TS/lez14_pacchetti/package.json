@@ -1,0 +1,14 @@
+{
+  "name": "lez14_pacchetti",
+  "version": "1.0.0",
+  "description": "Prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Pace",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
