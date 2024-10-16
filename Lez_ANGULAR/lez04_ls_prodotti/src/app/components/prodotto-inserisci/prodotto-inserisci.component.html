@@ -1,0 +1,28 @@
+<h1>Inserisci prodotto</h1>
+<p>Benvenuto nel nostro fantastico sistema gestionale da SENIOR in Angular, inseriscisci i dettagli per creare un nuovo prodotto... eh...</p>
+
+<div class="form-group">
+    <label for="input-nome" class="form-label">Nome</label>
+    <input type="text" id="input-nome" class="form-control" [(ngModel)]="nome" />
+</div>
+
+<div class="form-group">
+    <label for="input-descrizione" class="form-label">Descrizione</label>
+    <input type="text" id="input-descrizione" class="form-control" [(ngModel)]="descrizione" />
+</div>
+
+<div class="form-group">
+    <label for="input-quantita" class="form-label">Quantita</label>
+    <input type="number" id="input-quantita" class="form-control" [(ngModel)]="quantita" />
+</div>
+
+<div class="form-group">
+    <label for="input-prezzo" class="form-label">Prezzo</label>
+    <input type="number" id="input-prezzo" class="form-control" [(ngModel)]="prezzo" />
+</div>
+
+<button type="button" class="btn btn-primary mt-3" (click)="salva()">Salva</button>
+
+<div class="alert alert-danger mt-3" role="alert" *ngIf="errore">
+    Errore di compilazione del form
+</div>
