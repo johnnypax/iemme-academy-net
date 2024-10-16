@@ -9,6 +9,7 @@
   "author": "Giovanni Pace",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.21.1",
     "uuid": "^10.0.0"
   }
 }
