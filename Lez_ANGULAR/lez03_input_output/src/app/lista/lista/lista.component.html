@@ -1,0 +1,28 @@
+<h1>Lista semplice</h1>
+
+<ul>
+    <li *ngFor="let auto of elenco_stringhe">{{ auto }}</li>
+</ul>
+
+<div *ngIf="visualizzaTabella">
+    <h1>Tabella</h1>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Descrizione</th>
+                <th>Prezzo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let ogg of elenco_prodotti">
+                <td>{{ ogg.nom }}</td>
+                <td>{{ ogg.des }}</td>
+                <td>{{ ogg.pre }} &euro;</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<button type="button" class="btn btn-primary" (click)="toggla()">Mostra/Nascondi</button>

@@ -1,0 +1,18 @@
+<h1>{{ titolo }}</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Cognome</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let per of elenco">
+            <td>{{ per.nome }}</td>
+            <td>{{ per.cognome }}</td>
+        </tr>
+    </tbody>
+
+    Elementi presenti in lista {{ contatore }}
+</table>

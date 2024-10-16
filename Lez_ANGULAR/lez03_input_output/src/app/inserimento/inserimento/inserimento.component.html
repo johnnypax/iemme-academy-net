@@ -1,0 +1,39 @@
+<div class="container">
+    <h1>Inserisci prodotto</h1>
+
+    <div class="form-group">
+        <label for="input-nome" class="form-label">Nome</label>
+        <input type="text" [(ngModel)]="nome" class="form-control" id="input-nome" />
+    </div>
+
+    <div class="form-group">
+        <label for="input-descrizione" class="form-label">Descrizione</label>
+        <input type="text" [(ngModel)]="descrizione" class="form-control" id="input-descrizione" />
+    </div>
+
+    <div class="form-group">
+        <label for="input-prezzo" class="form-label">Prezzo</label>
+        <input type="number" [(ngModel)]="prezzo" class="form-control" id="input-prezzo" />
+    </div>
+
+    <button type="button" class="btn btn-primary" (click)="salva()">Salva</button>
+
+    <hr />
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Descrizione</th>
+                <th>Prezzo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let ogg of elenco">
+                <td>{{ ogg.nom }}</td>
+                <td>{{ ogg.des }}</td>
+                <td>{{ ogg.pre }} &euro;</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

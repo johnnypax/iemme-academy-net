@@ -2,7 +2,7 @@ Luis		+2
 Andrea F.	+3
 Alice Ant.	+2
 Riccardo	+4
-Sara		+6
+Sara		+7
 Roberta		+3
 Leonardo	+2
 Alessio		+0
@@ -14,5 +14,5 @@ Lorenzo		+1
 Alessandro	+1
 Jessica		+1
 Francesca	+1
-Arianna		+3 (per aver mandato a quel paese il docente)
-
+Arianna		+3
+Matteo		+1
