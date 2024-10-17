@@ -42,8 +42,7 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Controllers\\RepartoController.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwBEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:39:58.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:39:58.302Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_03_EF_ferramenta\\REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeToolTip": "REST_03_EF_ferramenta\\Controllers\\ProdottoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T08:11:44.552Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\RepartoRepository.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAGAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:08:07.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:08:07.626Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\ProdottoRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAuwF8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:04:47.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:04:47.042Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "REST_03_EF_ferramenta\\Repositories\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:02:47.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T08:02:47.254Z"
             }
           ]
         }
