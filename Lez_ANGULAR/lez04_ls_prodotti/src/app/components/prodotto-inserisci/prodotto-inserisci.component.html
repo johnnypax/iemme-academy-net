@@ -21,8 +21,12 @@
     <input type="number" id="input-prezzo" class="form-control" [(ngModel)]="prezzo" />
 </div>
 
-<button type="button" class="btn btn-primary mt-3" (click)="salva()">Salva</button>
+<button type="button" class="btn btn-primary mt-3" (click)="salva()" *ngIf="!successo">Salva</button>
 
 <div class="alert alert-danger mt-3" role="alert" *ngIf="errore">
     Errore di compilazione del form
+</div>
+
+<div class="alert alert-success mt-3" role="alert" *ngIf="successo">
+    Inserimento effettuato con successo, attesa del redirect...
 </div>

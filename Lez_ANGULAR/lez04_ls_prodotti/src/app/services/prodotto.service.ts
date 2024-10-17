@@ -1,16 +1,22 @@
 import { Injectable } from '@angular/core';
 import { Prodotto } from '../models/prodotto';
+import { v4 as uuidv4 } from 'uuid';
+import { ProdottoRepository } from '../repositories/prodotto.repository';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ProdottoService {
 
-  constructor() { }
+  constructor(private repo: ProdottoRepository) { }
 
-  InserisciProd(prod: Prodotto){
-    prod.cod = "AB1234";  //TODO: Assegnamo codice...
+  InserisciProd(prod: Prodotto): boolean{
+    prod.cod = uuidv4();
 
-    //Todo: chiama la Repo...
+    return this.repo.Create(prod);
+  }
+
+  ListaProdotti(): Prodotto[]{
+    return this.repo.GetAll();
   }
 }

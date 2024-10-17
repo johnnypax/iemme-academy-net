@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { Prodotto } from '../../models/prodotto';
 import { ProdottoService } from '../../services/prodotto.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-prodotto-inserisci',
@@ -19,12 +20,14 @@ export class ProdottoInserisciComponent {
   prezzo: number = 0;
 
   errore: boolean = false;
+  successo: boolean = false;
 
-  constructor(private service: ProdottoService){
+  constructor(private service: ProdottoService, private router: Router){
 
   }
 
   salva(){
+
     if(!this.nome || this.nome?.trim() === "" || this.quantita < 0 || this.prezzo < 0){
       this.errore = true;
       return;
@@ -36,6 +39,12 @@ export class ProdottoInserisciComponent {
     prod.pre = this.prezzo;
     prod.qua = this.quantita;
 
-    this.service.
+    if(this.service.InserisciProd(prod)){
+      this.successo = true;
+      this.router.navigateByUrl("/prodotti/lista")
+    }
+    else{
+      this.errore = true;
+    }
   }
 }
