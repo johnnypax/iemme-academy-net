@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|solutionrelative:esercizio_01_officina\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DF26CF-D691-42A5-A8E4-D14729BF3A22}|esercizio_01_officina\\esercizio_01_officina.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\models\\intervento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\appsettings.Development.json",
               "RelativeDocumentMoniker": "esercizio_01_officina\\appsettings.Development.json",
@@ -98,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "InterventoDTO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Models\\InterventoDTO.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Models\\InterventoDTO.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Models\\InterventoDTO.cs",
               "RelativeToolTip": "esercizio_01_officina\\Models\\InterventoDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA0AAAAuAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:30:12.888Z"
+              "WhenOpened": "2024-10-14T10:30:12.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "InterventoService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Services\\InterventoService.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Services\\InterventoService.cs",
@@ -142,7 +143,8 @@
               "RelativeToolTip": "esercizio_01_officina\\Controllers\\InterventoController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:55:49.719Z"
+              "WhenOpened": "2024-10-14T07:55:49.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Services\\ClienteService.cs",
@@ -170,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Controllers\\ClienteController.cs",
@@ -178,7 +180,8 @@
               "RelativeToolTip": "esercizio_01_officina\\Controllers\\ClienteController.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T08:28:52.324Z"
+              "WhenOpened": "2024-10-12T08:28:52.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -218,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IRepoLettura.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Repositories\\IRepoLettura.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Repositories\\IRepoLettura.cs",
@@ -230,20 +233,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Program.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Program.cs",
               "RelativeToolTip": "esercizio_01_officina\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxsAAAARAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwB8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T20:02:28.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\appsettings.json",
               "RelativeDocumentMoniker": "esercizio_01_officina\\appsettings.json",
@@ -255,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OfficinaContext.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Context\\OfficinaContext.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Context\\OfficinaContext.cs",
@@ -263,24 +266,24 @@
               "RelativeToolTip": "esercizio_01_officina\\Context\\OfficinaContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T19:51:17.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T19:51:17.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Models\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Models\\ClienteDTO.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Models\\ClienteDTO.cs",
               "RelativeToolTip": "esercizio_01_officina\\Models\\ClienteDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T19:39:37.742Z"
+              "WhenOpened": "2024-10-11T19:39:37.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\esercizio_01_officina\\esercizio_01_officina\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "esercizio_01_officina\\Models\\Cliente.cs",

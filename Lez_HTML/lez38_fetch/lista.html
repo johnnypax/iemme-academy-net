@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+
+        let endpoint = "http://localhost:5015/api/videoteche";
+    
+        // $.ajax({
+        //     url: endpoint,
+        //     type: "GET",
+        //     success: function(risultato){
+        //         console.log(risultato)
+        //     },
+        //     error: function(errore){
+        //         console.log(errore)
+        //     }
+        // })
+
+        fetch(endpoint)
+            .then(risultatoResponse => risultatoResponse.json())
+            .then(corpo => {
+                console.log(corpo)
+            })
+            .catch(errore => {
+                console.log(errore)
+            });
+
+
+
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Promesse</h1>
+    <script>
+
+
+        function PromessaSemplice(){
+            return new Promise( (resolve, reject) => {
+                console.log("Sono nella promise");
+
+                setTimeout(() => {
+                    resolve("Ho risolto la promessa")
+                    //reject("Errore nella richiesta")
+                }, 3000);
+            } )
+        }
+
+        PromessaSemplice()
+            .then(risultato => {
+                console.log(risultato);
+            })
+            .catch(errore => {
+                console.log(errore)
+            })
+            .finally(() => {
+                console.log("SONO IL FINALLY")
+            })
+            
+
+        console.log("Programma terminato")
+
+    </script>
+</body>
+</html>
