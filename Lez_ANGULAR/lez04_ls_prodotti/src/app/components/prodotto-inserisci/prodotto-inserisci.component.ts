@@ -41,7 +41,11 @@ export class ProdottoInserisciComponent {
 
     if(this.service.InserisciProd(prod)){
       this.successo = true;
-      this.router.navigateByUrl("/prodotti/lista")
+
+      setTimeout(() => {
+        this.router.navigateByUrl("/prodotti/lista")
+      }, 2000);
+
     }
     else{
       this.errore = true;

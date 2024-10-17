@@ -19,4 +19,12 @@ export class ProdottoService {
   ListaProdotti(): Prodotto[]{
     return this.repo.GetAll();
   }
+
+  EliminaProdotto(varCodice: string){
+    return this.repo.Delete(varCodice);
+  }
+
+  DettaglioProdotto(varCodice: string): Prodotto | null{
+    return this.repo.GetById(varCodice);
+  }
 }
