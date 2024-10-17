@@ -60,4 +60,22 @@ export class ProdottoRepository {
 
         return risultato;
     }
+
+    Update(objProd: Prodotto): boolean{
+        let risultato: boolean = false;
+
+        for(let i=0;i<this.elenco.length; i++){
+            if(this.elenco[i].cod === objProd.cod){
+                this.elenco[i].nom = objProd.nom;
+                this.elenco[i].des = objProd.des;
+                this.elenco[i].pre = objProd.pre;
+                this.elenco[i].qua = objProd.qua;
+            }
+        }
+
+        localStorage.setItem("negozio", JSON.stringify(this.elenco));
+        risultato = true;
+
+        return risultato;
+    }
 }

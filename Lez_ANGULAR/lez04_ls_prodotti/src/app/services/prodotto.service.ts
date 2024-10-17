@@ -27,4 +27,8 @@ export class ProdottoService {
   DettaglioProdotto(varCodice: string): Prodotto | null{
     return this.repo.GetById(varCodice);
   }
+
+  ModificaProdotto(objProdotto: Prodotto): boolean{
+    return this.repo.Update(objProdotto);
+  }
 }
