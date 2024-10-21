@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "REST_02_EF_Libreria\\Controllers\\LibroController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_02_EF_Libreria\\REST_02_EF_Libreria\\Controllers\\LibroController.cs",
               "RelativeToolTip": "REST_02_EF_Libreria\\Controllers\\LibroController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAwwCoAAAANAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwCwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T13:13:02.352Z",
               "EditorCaption": ""
@@ -67,7 +67,8 @@
               "RelativeToolTip": "REST_02_EF_Libreria\\Repositories\\LibroRepo.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAwwFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:00:38.093Z"
+              "WhenOpened": "2024-10-08T13:00:38.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

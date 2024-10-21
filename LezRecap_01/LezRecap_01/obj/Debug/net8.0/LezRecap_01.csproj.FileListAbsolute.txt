@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\bin\Debug\net8.0\LezRecap_01.exe
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\bin\Debug\net8.0\LezRecap_01.deps.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\bin\Debug\net8.0\LezRecap_01.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\bin\Debug\net8.0\LezRecap_01.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\bin\Debug\net8.0\LezRecap_01.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.sourcelink.json
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\refint\LezRecap_01.dll
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.pdb
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\LezRecap_01.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\net-iemme-ava\LezRecap_01\LezRecap_01\obj\Debug\net8.0\ref\LezRecap_01.dll
