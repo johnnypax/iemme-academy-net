@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">GesOff</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Lista Clienti</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ins_cliente.html">Inserisci Cliente</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="lista_interventi.html">Lista interventi</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ins_intervento.html">Inserisci Intervento</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mt-2">
+
+        <h1>Lista Interventi</h1>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Targa</th>
+                    <th>Modello</th>
+                    <th>Marca</th>
+                    <th>Anno</th>
+                    <th>Prezzo</th>
+                    <th>Stato</th>
+                    <th>Data Ingresso</th>
+                    <th>Nominativo Cliente</th>
+                </tr>
+            </thead>
+            <tbody id="contenuto-tabella">
+
+            </tbody>
+        </table>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script src="js/script_int_lis.js"></script>
+</body>
+
+</html>

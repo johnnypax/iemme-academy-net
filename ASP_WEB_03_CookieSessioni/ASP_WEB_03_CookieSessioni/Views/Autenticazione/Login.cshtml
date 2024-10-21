@@ -1,0 +1,21 @@
+﻿@model Utente
+
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <h1>Effettua il login</h1>
+
+        <form method="post" asp-controller="Autenticazione" asp-action="VerificaCredenziali">
+            <div class="form-group">
+                <label for="Username">Username</label>
+                <input type="text" class="form-control" asp-for=Username />
+            </div>
+            <div class="form-group">
+                <label for="Password">Password</label>
+                <input type="password" class="form-control" asp-for=Password />
+            </div>
+            <button class="btn btn-primary">Salva</button>
+        </form>
+
+    </div>
+</div>

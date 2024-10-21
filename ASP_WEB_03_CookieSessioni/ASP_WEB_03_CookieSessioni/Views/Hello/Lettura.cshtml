@@ -1,0 +1,19 @@
+﻿<h1>Lettura del cookie</h1>
+
+@if(ViewBag.lingua == "ITA")
+{
+    <h3>Sono le descrizione in Italiano</h3>
+    <p>Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano Descrizione in italiano </p>
+}
+else
+{
+    <h1>English description</h1>
+    <p>English description English description English description English description English description English description English description English description English description English description English description English description English description English description English description </p>
+}
+
+@if(ViewBag.utente is not null){
+<ul>
+    <li>@ViewBag.utente.Nome</li>
+    <li>@ViewBag.utente.Cognome</li>
+</ul>
+}

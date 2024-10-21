@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\esercizio_01_officina.props" />
+</Project>

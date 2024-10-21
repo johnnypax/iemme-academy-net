@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP_WEB_03_CookieSessioni.props" />
+</Project>
