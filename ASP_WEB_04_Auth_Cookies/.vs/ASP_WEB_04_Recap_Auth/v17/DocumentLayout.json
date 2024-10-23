@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\views\\user\\elenco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\views\\user\\elenco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_recap_auth\\asp_web_04_recap_auth\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elenco.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\User\\Elenco.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Views\\User\\Elenco.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\User\\Elenco.cshtml",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Views\\User\\Elenco.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:37:18.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:36:47.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:35:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:34:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:19:08.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Models\\Utente.cs",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Models\\Utente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:12:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:08:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:07:52.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

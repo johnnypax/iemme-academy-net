@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_WEB_04_Recap_Auth.props" />
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASP_WEB_04_Recap_Auth/1.0.0": {
+        "runtime": {
+          "ASP_WEB_04_Recap_Auth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP_WEB_04_Recap_Auth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
