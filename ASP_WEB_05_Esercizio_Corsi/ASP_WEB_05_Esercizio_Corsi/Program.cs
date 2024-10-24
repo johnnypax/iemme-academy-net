@@ -44,6 +44,14 @@ namespace ASP_WEB_05_Esercizio_Corsi
 
             app.UseSession();
 
+            #region Configurazione di dev per CORS
+#if DEBUG
+            app.UseCors(builder =>
+            builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
+            );
+#endif
+            #endregion
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Auth}/{action=Login}/{id?}");

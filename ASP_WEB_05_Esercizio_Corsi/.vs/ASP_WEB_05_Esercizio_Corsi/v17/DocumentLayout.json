@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\services\\corsoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowB0AAAAPAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T14:04:50.977Z",
               "EditorCaption": ""
@@ -47,18 +47,17 @@
               "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoApiService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:49:19.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T13:49:19.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CorsoApiController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
               "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
               "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:42:31.339Z",
               "EditorCaption": ""
