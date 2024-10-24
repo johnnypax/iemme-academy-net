@@ -8,5 +8,6 @@ namespace ASP_WEB_05_Esercizio_Corsi.Context
         public PoloFormativoContext(DbContextOptions<PoloFormativoContext> options) : base(options) { }
 
         public DbSet<Admin> Amministratori { get; set; }
+        public DbSet<Corso> Corsi { get; set; }
     }
 }

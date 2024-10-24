@@ -1,4 +1,7 @@
 using ASP_WEB_05_Esercizio_Corsi.Context;
+using ASP_WEB_05_Esercizio_Corsi.Repos;
+using ASP_WEB_05_Esercizio_Corsi.Services;
+using Microsoft.EntityFrameworkCore;
 
 namespace ASP_WEB_05_Esercizio_Corsi
 {
@@ -11,8 +14,19 @@ namespace ASP_WEB_05_Esercizio_Corsi
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddDbContext<PoloFormativoContext>(options =>  builder.Configuration.GetConnectionString("DatabaseTest") 
+            builder.Services.AddDbContext<PoloFormativoContext>(options => 
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DatabaseTest"))
             );
+
+            builder.Services.AddScoped<AdminRepo>();
+            builder.Services.AddScoped<CorsoRepo>();
+            builder.Services.AddScoped<AdminService>();
+            builder.Services.AddScoped<CorsoService>();
+
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
 
             var app = builder.Build();
 
@@ -26,6 +40,8 @@ namespace ASP_WEB_05_Esercizio_Corsi
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseSession();
 
             app.MapControllerRoute(
                 name: "default",

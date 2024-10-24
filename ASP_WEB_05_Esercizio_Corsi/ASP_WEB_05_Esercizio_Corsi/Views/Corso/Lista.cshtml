@@ -1,0 +1,27 @@
+﻿@model List<Corso>
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Descrizione</th>
+                <th>Prezzo</th>
+                <th>Max Partecipanti</th>
+                <th>Data Inizio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Corso c in Model)
+            {
+                <tr>
+                    <td>@c.Nome</td>
+                    <td>@c.Descrizione</td>
+                    <td>@c.Prezzo</td>
+                    <td>@c.MaxPartecipanti</td>
+                    <td>@c.DataCorso.ToString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
