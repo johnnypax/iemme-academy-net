@@ -22,6 +22,7 @@ namespace ASP_WEB_05_Esercizio_Corsi
             builder.Services.AddScoped<CorsoRepo>();
             builder.Services.AddScoped<AdminService>();
             builder.Services.AddScoped<CorsoService>();
+            builder.Services.AddScoped<CorsoApiService>();
 
             builder.Services.AddSession(options =>
             {

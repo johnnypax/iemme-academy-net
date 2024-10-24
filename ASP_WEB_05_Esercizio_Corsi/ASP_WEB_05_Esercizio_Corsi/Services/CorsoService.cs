@@ -3,7 +3,7 @@ using ASP_WEB_05_Esercizio_Corsi.Repos;
 
 namespace ASP_WEB_05_Esercizio_Corsi.Services
 {
-    public class CorsoService : IService<Corso>
+    public class CorsoService : IServiceLettura<Corso>, IServiceScrittura<CorsoDTO>
     {
         private readonly CorsoRepo _repo;
 
@@ -11,6 +11,7 @@ namespace ASP_WEB_05_Esercizio_Corsi.Services
         {
             _repo = repo;
         }
+
         public bool Delete(int id)
         {
             throw new NotImplementedException();
@@ -21,9 +22,19 @@ namespace ASP_WEB_05_Esercizio_Corsi.Services
             throw new NotImplementedException();
         }
 
-        public bool Insert(Corso t)
+        public bool Insert(CorsoDTO t)
         {
-            throw new NotImplementedException();
+            Corso cor = new Corso()
+            {
+                CodCorso = Guid.NewGuid().ToString().ToUpper(),
+                Nome = t.Nom!,
+                Descrizione = t.Des,
+                MaxPartecipanti = t.Par,
+                Prezzo = t.Pre,
+                DataCorso = t.Dat
+            };
+
+            return _repo.Create(cor);
         }
 
         public IEnumerable<Corso> List()
@@ -31,7 +42,7 @@ namespace ASP_WEB_05_Esercizio_Corsi.Services
             return _repo.GetAll();
         }
 
-        public bool Update(Corso t)
+        public bool Update(CorsoDTO t)
         {
             throw new NotImplementedException();
         }

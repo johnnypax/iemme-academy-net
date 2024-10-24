@@ -1,0 +1,30 @@
+﻿@model CorsoDTO
+
+<div class="container">
+    <h1>Inserisci un corso</h1>
+
+    <form method="post" asp-controller="Corso" asp-action="Salva">
+        <div class="form-group">
+            <label for="Nom">Nome</label>
+            <input type="text" class="form-control" asp-for=Nom />
+        </div>
+        <div class="form-group">
+            <label for="Des">Descrizione</label>
+            <textarea class="form-control" asp-for=Des></textarea>
+        </div>
+        <div class="form-group">
+            <label for="Pre">Prezzo</label>
+            <input type="number" min="0" class="form-control" asp-for=Pre />
+        </div>
+        <div class="form-group">
+            <label for="Par">Num. massimo partecipanti</label>
+            <input type="number" min="0" class="form-control" asp-for=Par />
+        </div>
+        <div class="form-group">
+            <label for="Dat">Data inizio</label>
+            <input type="datetime-local" class="form-control" asp-for=Dat />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Salva</button>
+    </form>
+</div>

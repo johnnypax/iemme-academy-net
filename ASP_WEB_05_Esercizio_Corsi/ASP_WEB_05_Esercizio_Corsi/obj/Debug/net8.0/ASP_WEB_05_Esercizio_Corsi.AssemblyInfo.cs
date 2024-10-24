@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_WEB_05_Esercizio_Corsi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52214781640337e683996ef6e3febe82a5baee9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f8c5ac40c0026325f031663258ebc37673e76d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_WEB_05_Esercizio_Corsi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_WEB_05_Esercizio_Corsi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

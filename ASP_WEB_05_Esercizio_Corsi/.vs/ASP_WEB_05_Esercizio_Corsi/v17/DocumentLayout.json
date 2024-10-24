@@ -3,64 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\services\\corsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\services\\corsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\views\\corso\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\views\\corso\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\context\\poloformativocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\context\\poloformativocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_05_esercizio_corsi\\asp_web_05_esercizio_corsi\\services\\corsoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA086A72-0E39-487C-85EE-5763728F53D0}|ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi.csproj|solutionrelative:asp_web_05_esercizio_corsi\\services\\corsoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,200 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CorsoService.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoService.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoService.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoService.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAuwBoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:29:01.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\IService.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Services\\IService.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\IService.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Services\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:25:41.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Corso.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Models\\Corso.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Models\\Corso.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Models\\Corso.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Models\\Corso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAoAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:17:23.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CorsoRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\CorsoRepo.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Repos\\CorsoRepo.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\CorsoRepo.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Repos\\CorsoRepo.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:16:49.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\IRepo.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Repos\\IRepo.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\IRepo.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Repos\\IRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:13:58.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Views\\Corso\\Lista.cshtml",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Views\\Corso\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Views\\Corso\\Lista.cshtml",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Views\\Corso\\Lista.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T09:55:16.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CorsoController.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoController.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoController.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoController.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:54:58.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\AdminService.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Services\\AdminService.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\AdminService.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Services\\AdminService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:40:12.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\AdminRepo.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Repos\\AdminRepo.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Repos\\AdminRepo.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Repos\\AdminRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:39:15.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T08:56:28.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:54:55.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Program.cs",
               "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAA3AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowB0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:46:00.631Z",
+              "WhenOpened": "2024-10-24T14:04:50.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PoloFormativoContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Context\\PoloFormativoContext.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Context\\PoloFormativoContext.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Context\\PoloFormativoContext.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Context\\PoloFormativoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "DocumentIndex": 2,
+              "Title": "CorsoApiService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoApiService.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoApiService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoApiService.cs",
+              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Services\\CorsoApiService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:44:20.743Z",
+              "WhenOpened": "2024-10-24T13:49:19.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\appsettings.json",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\appsettings.json",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-24T08:42:49.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Models\\Admin.cs",
-              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Models\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "CorsoApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_05_Esercizio_Corsi\\ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
+              "RelativeToolTip": "ASP_WEB_05_Esercizio_Corsi\\Controllers\\CorsoApiController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:38:17.769Z"
+              "WhenOpened": "2024-10-24T13:42:31.339Z",
+              "EditorCaption": ""
             }
           ]
         }
