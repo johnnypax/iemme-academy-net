@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_WEB_05_Esercizio_Corsi.props" />
+</Project>

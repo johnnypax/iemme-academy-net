@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_auth_sessions\\asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_auth_sessions\\asp_web_04_recap_auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_auth_sessions\\asp_web_04_recap_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_auth_sessions\\asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|solutionrelative:asp_web_04_recap_auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB535F20-FF8B-4ACA-A601-556A31DE7B05}|ASP_WEB_04_Recap_Auth\\ASP_WEB_04_Recap_Auth.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_04_auth_sessions\\asp_web_04_recap_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\ASP_WEB_04_Recap_Auth\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Views\\Shared\\_Layout.cshtml",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
@@ -95,12 +95,11 @@
               "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:35:34.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:35:34.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:34:06.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:34:06.924Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAADwvx0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:19:08.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:19:08.32Z"
             },
             {
               "$type": "Document",
@@ -150,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_04_Auth_Sessions\\ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
               "RelativeToolTip": "ASP_WEB_04_Recap_Auth\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAArAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:07:52.432Z",
               "EditorCaption": ""
