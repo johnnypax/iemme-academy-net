@@ -46,5 +46,16 @@ namespace ASP_WEB_05_Esercizio_Corsi.Services
         {
             throw new NotImplementedException();
         }
+
+        public int? GetIdByCode(string cod)
+        {
+            int? risultato = null;
+
+            Corso? c = _repo.GetByCode(cod);
+            if (c is not null)
+                risultato = c.CorsoID;
+
+            return risultato;
+        }
     }
 }

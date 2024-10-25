@@ -3,31 +3,31 @@ using ASP_WEB_05_Esercizio_Corsi.Models;
 
 namespace ASP_WEB_05_Esercizio_Corsi.Repos
 {
-    public class CorsoRepo : IRepo<Corso>
+    public class IscrizioneRepo : IRepo<Iscrizione>
     {
         private readonly PoloFormativoContext _context;
-        private readonly ILogger<CorsoRepo> _logger;
+        private readonly ILogger<IscrizioneRepo> _logger;
 
-        public CorsoRepo(PoloFormativoContext context, ILogger<CorsoRepo> logger)
+        public IscrizioneRepo(PoloFormativoContext context, ILogger<IscrizioneRepo> logger)
         {
             _context = context;
             _logger = logger;
         }
 
-        public bool Create(Corso t)
+        public bool Create(Iscrizione t)
         {
             bool risultato = false;
 
             try
             {
-                _context.Corsi.Add(t);
+                _context.Iscrizioni.Add(t);
                 _context.SaveChanges();
 
                 risultato = true;
             }
             catch (Exception ex)
             {
-                _logger.LogCritical(ex.Message);
+                _logger.LogError(ex.Message);
             }
 
             return risultato;
@@ -38,24 +38,19 @@ namespace ASP_WEB_05_Esercizio_Corsi.Repos
             throw new NotImplementedException();
         }
 
-        public Corso? Get(int id)
+        public Iscrizione? Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Corso> GetAll()
-        {
-            return _context.Corsi.ToList();
-        }
-
-        public bool Update(Corso t)
+        public IEnumerable<Iscrizione> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public Corso? GetByCode(string cod)
+        public bool Update(Iscrizione t)
         {
-            return _context.Corsi.FirstOrDefault(c => c.CodCorso == cod);
+            throw new NotImplementedException();
         }
     }
 }

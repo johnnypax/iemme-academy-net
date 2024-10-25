@@ -9,5 +9,6 @@ namespace ASP_WEB_05_Esercizio_Corsi.Context
 
         public DbSet<Admin> Amministratori { get; set; }
         public DbSet<Corso> Corsi { get; set; }
+        public DbSet<Iscrizione> Iscrizioni { get; set; }
     }
 }

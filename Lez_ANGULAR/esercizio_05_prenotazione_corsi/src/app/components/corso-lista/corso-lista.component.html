@@ -3,12 +3,16 @@
         <tr>
             <th>Nome</th>
             <th>Descrizione</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
         <tr *ngFor="let c of elenco">
             <td>{{ c.nom }}</td>
             <td>{{ c.des }}</td>
+            <td>
+                <a href="/iscrizione/{{ c.cod }}" class="btn btn-primary">Iscriviti</a>
+            </td>
         </tr>
     </tbody>
 </table>

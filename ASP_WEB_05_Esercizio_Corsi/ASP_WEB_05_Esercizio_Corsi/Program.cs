@@ -1,4 +1,5 @@
 using ASP_WEB_05_Esercizio_Corsi.Context;
+using ASP_WEB_05_Esercizio_Corsi.Controllers;
 using ASP_WEB_05_Esercizio_Corsi.Repos;
 using ASP_WEB_05_Esercizio_Corsi.Services;
 using Microsoft.EntityFrameworkCore;
@@ -20,9 +21,11 @@ namespace ASP_WEB_05_Esercizio_Corsi
 
             builder.Services.AddScoped<AdminRepo>();
             builder.Services.AddScoped<CorsoRepo>();
+            builder.Services.AddScoped<IscrizioneRepo>();
             builder.Services.AddScoped<AdminService>();
             builder.Services.AddScoped<CorsoService>();
             builder.Services.AddScoped<CorsoApiService>();
+            builder.Services.AddScoped<IscrizioneApiService>();
 
             builder.Services.AddSession(options =>
             {
