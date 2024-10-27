@@ -18,3 +18,4 @@ Arianna		+2
 Matteo		+1
 Andrea C.	+1
 Alice 		+1
+*Valerio	+1

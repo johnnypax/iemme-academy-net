@@ -33,9 +33,9 @@ namespace LINQ_lez05_taskino
             ////                where prodotto.Categoria is not null && prodotto.Categoria.Equals("Alimenti")
             ////                select prodotto;
 
-            //var risultato = elenco
-            //                    .Where(p => p.Categoria.Equals("Alimenti"))
-            //                    .Select(p => p.Nome);
+            var risultato = elenco
+                                .Where(p => p.Categoria.Equals("Alimenti"))
+                                .Select(p => p.Nome);
 
             //foreach (var p in risultato)
             //{
