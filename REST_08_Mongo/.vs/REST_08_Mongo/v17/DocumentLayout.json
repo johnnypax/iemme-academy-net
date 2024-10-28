@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|c:\\users\\academy\\downloads\\rest_08_mongo\\rest_08_mongo\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972B6F75-6FDF-4804-B9A3-1E7EB3001BAC}|REST_08_Mongo\\REST_08_Mongo.csproj|solutionrelative:rest_08_mongo\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\Risposta.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Models\\Risposta.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\Risposta.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Models\\Risposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:33:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpiegatoController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Controllers\\ImpiegatoController.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Controllers\\ImpiegatoController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Controllers\\ImpiegatoController.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Controllers\\ImpiegatoController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:23:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImpiegatoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\ImpiegatoDTO.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Models\\ImpiegatoDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\ImpiegatoDTO.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Models\\ImpiegatoDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:21:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Program.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Program.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:19:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Services\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Services\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Services\\ImpiegatoService.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Services\\ImpiegatoService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:19:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\appsettings.json",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\appsettings.json",
+              "RelativeToolTip": "REST_08_Mongo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T13:43:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpiegatoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\ImpiegatoRepo.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Repos\\ImpiegatoRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\ImpiegatoRepo.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Repos\\ImpiegatoRepo.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:41:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Repos\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\IRepoScrittura.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Repos\\IRepoScrittura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:40:34.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\IRepoLettura.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Repos\\IRepoLettura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Repos\\IRepoLettura.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Repos\\IRepoLettura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:39:39.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Impiegato.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\Impiegato.cs",
+              "RelativeDocumentMoniker": "REST_08_Mongo\\Models\\Impiegato.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\REST_08_Mongo\\REST_08_Mongo\\Models\\Impiegato.cs",
+              "RelativeToolTip": "REST_08_Mongo\\Models\\Impiegato.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:29:51.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

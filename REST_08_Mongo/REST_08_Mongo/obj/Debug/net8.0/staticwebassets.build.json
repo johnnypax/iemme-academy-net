@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A/VtGIecRL+LhzqjUFZ1Nv2a7/QxbK+kOCuxRjN32E0=",
+  "Source": "REST_08_Mongo",
+  "BasePath": "_content/REST_08_Mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
