@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|solutionrelative:rest_06_jwt_intro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300DA7FB-6DC9-4022-9C39-761A65CD7BB4}|REST_06_JWT_INTRO\\REST_06_JWT_INTRO.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\rest_06_jwt_intro\\rest_06_jwt_intro\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +38,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AutorizzaUtentePerTipo.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Filters\\AutorizzaUtentePerTipo.cs",
               "RelativeDocumentMoniker": "REST_06_JWT_INTRO\\Filters\\AutorizzaUtentePerTipo.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Filters\\AutorizzaUtentePerTipo.cs",
               "RelativeToolTip": "REST_06_JWT_INTRO\\Filters\\AutorizzaUtentePerTipo.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBAAAAAMAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T13:20:00.332Z"
+              "WhenOpened": "2024-10-25T13:20:00.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "REST_06_JWT_INTRO\\Controllers\\UserController.cs",
@@ -58,12 +59,11 @@
               "RelativeToolTip": "REST_06_JWT_INTRO\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T13:15:06.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T13:15:06.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "REST_06_JWT_INTRO\\Controllers\\AdminController.cs",
@@ -94,14 +94,14 @@
               "RelativeDocumentMoniker": "REST_06_JWT_INTRO\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Controllers\\AuthController.cs",
               "RelativeToolTip": "REST_06_JWT_INTRO\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAADEAAAANAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T10:48:01.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\REST_06_JWT_INTRO\\REST_06_JWT_INTRO\\Program.cs",
               "RelativeDocumentMoniker": "REST_06_JWT_INTRO\\Program.cs",
@@ -109,8 +109,7 @@
               "RelativeToolTip": "REST_06_JWT_INTRO\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAUwBoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:18:28.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T10:18:28.351Z"
             }
           ]
         }
