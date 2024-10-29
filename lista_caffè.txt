@@ -1,11 +1,11 @@
 Luis		+1
 Andrea F.	+5
 Alice Ant.	+3
-Riccardo	+5
-Sara		+9***
+Riccardo	+6
+Sara		+10***
 Roberta		+5
 Leonardo	+2
-Alessio		+2
+Alessio		+3
 Davide		+1
 Federico	+0
 Antonio		+1
@@ -26,3 +26,6 @@ Valerio		+1
 
 **"Attenzione, giovane PadawanAnna", disse il Maestro Jedi, osservando con un sorriso enigmatico la richiesta strana della sua allieva. "Gli array frastagliati sono come la galassia: caotici, pieni di sorprese e percorsi inaspettati. Solo chi conosce bene la Forza del codice può manipolarli senza perdersi tra gli indici e le out of bounds exeption. Ricorda, non è la forma dell'array che conta, ma come lo usi!
 E così, la PadawanAnna capì che in ogni riga di codice si celava un mistero, e che persino gli array frastagliati potevano rivelarsi alleati… o nemici esattamente come il caffè che prese in quella notte stellata.
+
+***"Attenta, giovane Saradawan," disse il Maestro con un sorrisetto, "poiché la conoscenza del codice arriva spesso come un disturbo improvviso, una scossa nella Forza che ti spinge oltre i confini dello studio ordinario!"
+E con il suo solito fare solenne, tipico di un Jedi con la camicia a maniche arrotolate, aggiunse: "Solo chi è pronto a lasciare che il flusso del sapere entri anche nei momenti di quiete può diventare un vero Maestro del codice… ma non temere, tornerò a disturbarti presto!". Con questo, il Maestro svanì, lasciando Saradawan con un misto di rassegnazione e un accenno di rispetto per la lista dei caffè dove la doppia cifra era apparsa di fianco al suo nome.

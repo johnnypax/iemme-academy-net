@@ -25,7 +25,7 @@ namespace REST_EF_06_Migrazioni.Models
         [MaxLength(250)]
         public string? Distribuzione { get; set; }
 
-        [MaxLength(20)]
+        [MaxLength(36)]
         [Required]
         public string? Codice { get; set; }
 

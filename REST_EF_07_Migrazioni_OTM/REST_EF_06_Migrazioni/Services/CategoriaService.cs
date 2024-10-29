@@ -5,9 +5,9 @@ namespace REST_EF_06_Migrazioni.Services
 {
     public class CategoriaService : IServices<CategoriaDTO>
     {
-        private readonly FilmRepo _repo;
+        private readonly CategoriaRepo _repo;
 
-        public CategoriaService(FilmRepo repo)
+        public CategoriaService(CategoriaRepo repo)
         {
             _repo = repo;
         }
@@ -35,6 +35,22 @@ namespace REST_EF_06_Migrazioni.Services
         public bool Inserisci(CategoriaDTO entity)
         {
             throw new NotImplementedException();
+        }
+
+        public CategoriaDTO? CercaPerId(int id)
+        {
+            CategoriaDTO? categoriaDTO = null;
+
+            Categoria? ris = _repo.GetById(id);
+            if(ris is not null) {
+                categoriaDTO = new CategoriaDTO()
+                {
+                    Codice = ris.Codice,
+                    Nome = ris.Nome,
+                };
+            }
+
+            return categoriaDTO;
         }
     }
 }

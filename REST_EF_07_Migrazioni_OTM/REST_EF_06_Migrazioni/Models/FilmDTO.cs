@@ -12,6 +12,6 @@ namespace REST_EF_06_Migrazioni.Models
         public string? Dis { get; set; }
         public string? Cod { get; set; }
 
-        //public ICollection<Film_Categoria> FilmCatList { get; set; } = new List<Film_Categoria>();
+        public IEnumerable<CategoriaDTO> Cat { get; set; } = new List<CategoriaDTO>();
     }
 }

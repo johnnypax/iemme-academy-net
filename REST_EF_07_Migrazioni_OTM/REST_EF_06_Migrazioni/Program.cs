@@ -1,6 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
 using REST_EF_06_Migrazioni.Context;
+using REST_EF_06_Migrazioni.Repos;
+using REST_EF_06_Migrazioni.Services;
 
 namespace REST_EF_06_Migrazioni
 {
@@ -22,6 +24,13 @@ namespace REST_EF_06_Migrazioni
                     builder.Configuration.GetConnectionString("DatabaseTest")
                 )
             );
+
+            builder.Services.AddScoped<FilmRepo>();
+            builder.Services.AddScoped<CategoriaRepo>();
+            builder.Services.AddScoped<FilmCategoriaRepo>();
+            builder.Services.AddScoped<FilmService>();
+            builder.Services.AddScoped<CategoriaService>();
+            builder.Services.AddScoped<FilmCategoriaService>();
 
             #region Configurazione del context
 
