@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\REST_EF_06_Migrazioni.props" />
+</Project>

@@ -2,24 +2,24 @@ Luis		+1
 Andrea F.	+5
 Alice Ant.	+3
 Riccardo	+5
-Sara		+8
-Roberta		+4
+Sara		+9***
+Roberta		+5
 Leonardo	+2
-Alessio		+1
+Alessio		+2
 Davide		+1
 Federico	+0
 Antonio		+1
-Gianmarco	+7*
+Gianmarco	+8*
 Lorenzo		+1
 Alessandro	+1
 Jessica		+0
 Francesca	+1
 Arianna		+2
 Matteo		+2
-Andrea C.	+1
-Alice 		+1
+Andrea C.	+2
+Alice 		+2
 Anna		+1**
-*Valerio	+1
+Valerio		+1
 
 
 *Il nostro giovane Padawan Gianmarco, affascinato dal potere oscuro e potente delle Stored Procedure, si rivolge al maestro ChatGPT per verificare ciò che il Maestro Jedi JPax gli ha insegnato. Tra le nebbie del codice SQL, il Padawan cerca risposte e conoscenza. Ma ChatGPT, sagace e imperturbabile, gli risponde: ...Usare le Stored Procedure è un’arte antica e potente. Serve padronanza, equilibrio, e non poca pazienza. Gli Jedi non usano le Stored Procedure alla leggera, Padawan, poiché sanno che un uso incauto potrebbe causare caos nella Forza... e nel database! In quel momento, il giovane comprende che non esiste un potere nascosto più grande di quello del suo Maestro Jedi, che lo guida nelle vie oscure e segrete del Backend. Così, con un sorriso malizioso, torna da te, sapendo di aver trovato verità profonde, perché le risposte che cercava erano sempre state sotto i suoi occhi, pronte a essere svelate. Anche in questo universo lontano lontano Gianmarco si becca un caffè!
