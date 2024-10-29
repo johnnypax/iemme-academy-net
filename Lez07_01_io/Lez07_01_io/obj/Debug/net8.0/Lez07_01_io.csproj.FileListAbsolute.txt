@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\bin\Debug\net8.0\Lez07_01_io.exe
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\bin\Debug\net8.0\Lez07_01_io.deps.json
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\bin\Debug\net8.0\Lez07_01_io.runtimeconfig.json
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\bin\Debug\net8.0\Lez07_01_io.dll
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\bin\Debug\net8.0\Lez07_01_io.pdb
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.AssemblyInfo.cs
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.dll
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\refint\Lez07_01_io.dll
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.pdb
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\Lez07_01_io.genruntimeconfig.cache
+C:\Users\ACADEMY\Downloads\Lez07_01_io\Lez07_01_io\obj\Debug\net8.0\ref\Lez07_01_io.dll
