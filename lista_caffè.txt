@@ -9,7 +9,7 @@ Alessio		+3
 Davide		+1
 Federico	+0
 Antonio		+1
-Gianmarco	+8*
+Gianmarco	+9*
 Lorenzo		+1
 Alessandro	+1
 Jessica		+0
