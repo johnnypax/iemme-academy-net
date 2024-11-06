@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\dettaglio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\dettaglio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\inserisci.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\inserisci.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|c:\\users\\academy\\downloads\\asp_razor_pages_01_introduzione\\asp_razor_pages_01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}|ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione.csproj|solutionrelative:asp_razor_pages_01_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inserisci.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml.cs",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:24:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inserisci.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Inserisci.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:23:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:03:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dettaglio.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml.cs",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:14:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dettaglio.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Dettaglio.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:14:42.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:01:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_RAZOR_PAGES_01_Introduzione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Downloads\\ASP_RAZOR_PAGES_01_Introduzione\\ASP_RAZOR_PAGES_01_Introduzione\\Program.cs",
+              "RelativeToolTip": "ASP_RAZOR_PAGES_01_Introduzione\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:06:18.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

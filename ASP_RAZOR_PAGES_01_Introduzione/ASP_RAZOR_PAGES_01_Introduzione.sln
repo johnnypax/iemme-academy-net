@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_RAZOR_PAGES_01_Introduzione", "ASP_RAZOR_PAGES_01_Introduzione\ASP_RAZOR_PAGES_01_Introduzione.csproj", "{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BAC906-290E-4D8F-A0F7-D1AA99893ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B86068-EAE5-4960-91C3-F2D62B2D94CC}
+	EndGlobalSection
+EndGlobal

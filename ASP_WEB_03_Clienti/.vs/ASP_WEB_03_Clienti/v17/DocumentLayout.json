@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\views\\cliente\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\views\\cliente\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|solutionrelative:asp_web_03_clienti\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C422EC2-2866-4FE9-A9C7-14DC4EDD9C0E}|ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti.csproj|c:\\users\\academy\\desktop\\net-iemme-ava\\asp_web_03_clienti\\asp_web_03_clienti\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Modifica.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Modifica.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB8AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-14T15:10:54.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dettaglio.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Dettaglio.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T14:45:55.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T14:45:55.688Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Errore.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T14:42:31.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T14:42:31.688Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Inserisci.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwCAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T13:34:57.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:34:57.568Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T13:26:24.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:26:24.44Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Service\\ClienteService.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:18:20.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:18:20.88Z"
             },
             {
               "$type": "Document",
@@ -160,18 +155,17 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Views\\Cliente\\Lista.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T13:10:57.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:10:57.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\net-iemme-ava\\ASP_WEB_03_Clienti\\ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwFAAAAAAAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:09:15.824Z",
               "EditorCaption": ""
@@ -186,8 +180,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T13:05:35.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:05:35.556Z"
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Context\\OfficinaContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:02:42.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:02:42.854Z"
             },
             {
               "$type": "Document",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\IRepoScrittura.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:02:07.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:02:07.508Z"
             },
             {
               "$type": "Document",
@@ -225,8 +216,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\IRepoLettura.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:02:03.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:02:03.403Z"
             },
             {
               "$type": "Document",
@@ -238,8 +228,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Repositories\\ClienteRepo.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAYwCEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:01:46.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:01:46.322Z"
             },
             {
               "$type": "Document",
@@ -251,8 +240,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Models\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:01:03.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:01:03.563Z"
             },
             {
               "$type": "Document",
@@ -264,8 +252,7 @@
               "RelativeToolTip": "ASP_WEB_03_Clienti\\Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAAwCwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:55:17.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:55:17.358Z"
             }
           ]
         }
